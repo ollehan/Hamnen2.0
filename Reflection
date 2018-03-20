@@ -1,1 +1,73 @@
 
+Team reflection
+
+Week 1 2018-03-20:
+
+The chosen scope of the application under development including priority of features and for whom you are creating value
+* We are not able to answer this question since we have not yet been briefed by our clients and stakeholders
+
+Our social contract, which means you should create one in the first week
+* Weekly meetings are Monday, Wednesday and Friday. 
+* Meeting on monday is for planning the weekly activities and dividing the sprint up between members.
+* Meeting on Wednesday has the main purpose of making sure everyone is on track and see if someone is in need of help.
+* Meeting on Friday is for finishing the spring and reflecting on the past weeks activities.
+* Each one has responsbility for the given task divided by the group
+    - This implies that you either have to solve the task or ask for help if you cannot solve the problem yourself/ in the couple
+* The programming part will be done in pairs of two in order to maximize our problem solving ability. However, this will not be a strict division but as guideline for the project. At our meetings the whole group will help each other if stuck at a problem.
+* Group Roles
+    - Project Developer
+    - Scrum master
+    - Team member - Developer
+
+The success criteria for the team in terms of what you want to achieve with your application
+* For the application to be deemed successful by the team it is important that the perceived value of the recipient is in line with expectations on the application both in regards to quality and the features included. For this to be possible it is important to maintain expectations during the projects progress since there is a limited amount of time to work with and initial expectations might not be manageable within the limitations. 
+
+Your acceptance tests, such as how they were performed and with whom
+* Since the project hasn’t been chosen and started yet, we cannot reflect on this point.
+
+The design of your application (choice of APIs, architecture patterns etc)
+* Since the project hasn’t been chosen and started yet, we cannot reflect on this point.
+
+The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+* Since the project hasn’t been chosen and started yet, we cannot reflect on this point.
+
+The structural overview of your application (such as class diagrams, domain models or component diagrams)
+* Since the project hasn’t been chosen and started yet, we cannot reflect on this point.
+
+Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+* Since the project hasn’t been chosen and started yet, we cannot reflect on this point.
+
+The three KPIs you use for monitoring your progress
+* Customer satisfaction - We have yet to decide exactly how we are going the evaluate the customer satisfaction, but our preliminary thoughts are dividing customer satisfaction into different categories and then giving score on a scale from 1-10.
+* Velocity - Interesting to see how our programming skills develops as we get deeper into the project. 
+* Defects - In order to measure how well the software works we are going to measure the e.g. accumulated defects in the code. Our goal is to measure number of defects each monday morning and then compare it with the number of defects in the end of the week.
+
+
+Code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+* Since the project hasn’t been chosen and started yet, we cannot reflect on this point.
+
+The roles you have used within the team
+* Since the project hasn’t been chosen and started yet, we cannot reflect on this point.
+
+The agile practices you have used for the current sprint
+* As this is still a prep phase the sprint hasn’t started yet. We have instead started planning on how to perform agile practices during our coming sprints (e.g. pair programming, sharing/helping other programmers etc.)
+
+The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+* Lecture monday 4h
+* Lecture wednesday 4h
+* Meeting tuesday 2018-03-20 4h
+* Individual writing reflection and reading up on scrum theory 4h
+
+The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+* We haven’t completed an official sprint this week so we didn’t do a sprint review.
+
+Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+* We are going to use GITHUB for version control.
+* To coordinate our planned meetings and working time a shared Google Calendar will be used
+* For documentation of meetings a Google drive calendar will be used 
+* TODO: Update with further relevant tools
+
+Relation to literature and guest lectures (how do your reflections relate to what others have to say?)
+* We have used some of the concepts such as KPI’s from the lectures on monday the 19th of March, the scrum concept will be applied throughout the project.
+
+
