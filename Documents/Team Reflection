@@ -71,3 +71,49 @@ Relation to literature and guest lectures (how do your reflections relate to wha
 * We have used some of the concepts such as KPI’s from the lectures on monday the 19th of March, the scrum concept will be applied throughout the project.
 
 
+
+Team Reflection-week 2
+
+The chosen scope of the application under development including priority of features and for whom you are creating value.
+ * We have received a vessel business operator. We will adapt the app PortableCDM to suit the environment of a vessel. 
+Our social contract
+ *The social contract has been somewhat modified this week due to Easter break. Also because of the fact that the assignment was not received until wednesday we have not been able to work with the assignment other than reflect and discuss it. 
+The success criteria for the team in terms of what you want to achieve with your application
+ *We feel like last weeks explanation of a successful project remains the same for this week, 
+ *For the application to be deemed successful by the team it is important that the perceived value of the recipient is in line with expectations on the application both in regards to quality and the features included. For this to be possible it is important to maintain expectations during the projects progress since there is a limited amount of time to work with and initial expectations might not be manageable within the limitations.
+Your acceptance tests, such as how they were performed and with whom
+ *Since the project was received on wednesday we have not had the chance to perform any acceptance tests. 
+The design of your application (choice of APIs, architecture patterns etc)
+ *Since the project was received on wednesday we have not had the chance to reflect on the design of the application.  
+The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+ *Since the project hasn’t been started yet, we cannot reflect on this point.
+The structural overview of your application (such as class diagrams, domain models or component diagrams)
+ *Since the project hasn’t been started yet, we cannot reflect on this point.
+Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+ *Since the project hasn’t been started yet, we cannot reflect on this point.
+The three KPIs you use for monitoring your progress
+ *Customer satisfaction - We have yet to decide exactly how we are going the evaluate the customer satisfaction, but our preliminary thoughts are dividing customer satisfaction into different categories and then giving score on a scale from 1-10.
+ *Velocity - Interesting to see how our programming skills develops as we get deeper into the project. 
+ *Defects - In order to measure how well the software works we are going to measure the e.g. accumulated defects in the code. Our goal is to measure number of defects each monday morning and then compare it with the number of defects in the end of the week.
+Code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+ *Since the project hasn’t been started yet, we cannot reflect on this point.
+The roles you have used within the team
+ *The roles this week have basically been the same for all participants of this group. We have spent most of the time reading about the project.
+The agile practices you have used for the current sprint
+ *As this is still a prep phase the sprint hasn’t started yet. We have continued to plan how to perform agile practices during our coming sprints (e.g. pair programming, sharing/helping other programmers etc.)
+The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+ *Lecture monday 2h
+ *Lecture wednesday 2h
+ *Meeting Thursday 4h
+Individual writing and reflection 4h
+The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+We haven’t completed an official sprint this week so we didn’t do a sprint review.
+Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+ We are going to use GITHUB for version control where
+To coordinate our planned meetings and working time a shared Google Calendar will be used
+For documentation of meetings a Google drive calendar will be used 
+For communcation between meetings we created a Facebook-chat.
+TODO: Update with further relevant tools
+Relation to literature and guest lectures (how do your reflections relate to what others have to say?
+We have used some of the concepts such as KPI’s from the lectures on monday the 19th of March, the scrum concept will be applied throughout the project. Now when we have gotten some more info about the project, we understand it might be hard to see/understand how the  final version of the application will be. The development will be an ongoing process. The aim is to use the KATA-principle as much as possible. 
+
