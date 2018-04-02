@@ -16,3 +16,5 @@ Fredrik Josefson
 Emil Kindgren
 
 Rebecca Hjertonsson
+
+Johan Johansson
