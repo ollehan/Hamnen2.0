@@ -117,3 +117,106 @@ TODO: Update with further relevant tools
 Relation to literature and guest lectures (how do your reflections relate to what others have to say?
 We have used some of the concepts such as KPI’s from the lectures on monday the 19th of March, the scrum concept will be applied throughout the project. Now when we have gotten some more info about the project, we understand it might be hard to see/understand how the  final version of the application will be. The development will be an ongoing process. The aim is to use the KATA-principle as much as possible. 
 
+Team Reflection Week 3 2018-04-13:
+
+The chosen scope of the application under development including priority of features and for whom you are creating value
+* This week we have tried setting up the programming environment and the technical solutions required for creating the application for all team members.
+This includes setting up
+Android Studio
+Expo
+Git
+Visual Studio(for creating JavaScript)
+Node.js
+Further, we have set up Trello for working with the backlog and the sprintlog. We have created a group where we will keep our user stories
+
+We have also began analyzing the scenario and together with end user(vessel) we have started to break down the tasks to figure out what relevant functions the applications should contain and also the priority of the functions. 
+
+Our social contract, which means you should create one in the first week
+* This week we didn’t follow the social contract completely because we didn’t have a monday meeting as scheduled. This was due to a deadline in the bachelor thesis, .though we compensated the missed monday meeting by working during the easter break.
+* The others parts of the contract have been followed accordingly.
+* This week John was Scrum master.
+
+The success criteria for the team in terms of what you want to achieve with your application
+* Our success criteria for this week was to successfully get the programme environment successfully set up. We were not successful on this point, due to having several problems with the mac computers, namely getting the NPM install running. 
+
+Your acceptance tests, such as how they were performed and with whom
+* The acceptance test for this week was being able to run the application (portableCDM) running on every team members computer. As mentioned above, they were unsuccessful. 
+
+The design of your application (choice of APIs, architecture patterns etc)
+* We didn’t design anything this week, so this question cannot be answered.
+
+The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+* We didn’t design anything this week, so this question cannot be answered.
+
+The structural overview of your application (such as class diagrams, domain models or component diagrams)
+* We didn’t design anything this week, so this question cannot be answered.
+
+Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+1. Explanation: As a team member, i would like to set up the programming environment
+Acceptance criteria: Getting the application running (portablecdm) on every team members computer
+Task breakdown: Install following through guidance of the readme-file provided on the coursepage: 
+Android Studio
+Expo
+Git
+Visual Studio(for creating JavaSctript)
+Node.js
+Effort estimation: 100 
+2. Explanation: As a team member I want to be able to output a single text message through the application.
+Acceptance criteria: Outputing a text message
+Task breakdown: Learning the required java script, successfully completing user story 1, programming the method the text message output.
+Effort estimation: 60
+3. Explanation: Accessing prices from different ship agents in a given port.
+Acceptance criteria: Being able to see only prices from relevant ship agents in portablecdm.
+Task breakdown: Not yet known, yet to figure out.
+Effort estimation: 400
+4. Explanation: As a vessel i need to be able to send estimated arrival time as a stamp. 
+Acceptance Criteria: Being able to send a time-stamp to a recepient. 
+Task Breakdown: Not yet known, yet to figure out. 
+Effort estimation: 200
+
+The three KPIs you use for monitoring your progress
+* Customer satisfaction - We have yet to decide exactly how we are going the evaluate the customer satisfaction, but our preliminary thoughts are dividing customer satisfaction into different categories and then giving score on a scale from 1-10.
+* Velocity - Interesting to see how our programming skills develops as we get deeper into the project. 
+* Defects - In order to measure how well the software works we are going to measure the e.g. accumulated defects in the code. Our goal is to measure number of defects each monday morning and then compare it with the number of defects in the end of the week.
+
+
+Code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+No code has yet been written, thus this is not relevant for reflection
+
+The roles you have used within the team
+Scrum-master: John
+User-story responsibles: Olle & Fredrik
+Developers: Rebecca & Johan
+Acceptance criteria testers: Emil, Jonathan and Niklas
+
+The agile practices you have used for the current sprint
+User-stories
+Backlog
+Sprintlog
+Iteration withing testing the acceptance criteria
+
+
+
+The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+Tuesday:
+8 hours spent installing and setting up the programming interface and the environment
+Wednesday:
+4 hours spent with Open arena contacting end-user, product owner etc.
+2 hours spent with setting up the application interface
+Friday
+2 hours spent on performing user-stories
+2,5 hours weekly review of performance
+
+The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+Setting up the programming environment: We have not succeeded to meet the acceptance criteria for this task since no one has yet been able to run the app successfully. Although we have not completeted the whole user-story we have managed to complete some of the tasks included. E.g. install android studio, install GIT
+Further, we have been able to better understand how to handle user-stories by using the Trello software
+
+Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+Trello will be used for user-stories
+Microsoft Visual will be used for handling the java-scripts
+For the sprint-planning we will print the user-stories and perform the ranking and choice of what to include in the sprint
+
+Relation to literature and guest lectures (how do your reflections relate to what others have to say?)
+We have studied the ScrumXP litterature and read the first 5 chapters. From these chapters we have learnt how to perform sprint planning, setting up the backlog and sprintlog and further how to rank user-stories importance and scope.
+
+
