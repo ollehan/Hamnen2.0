@@ -1,6 +1,5 @@
 Week 1
 
-
 What do I want to learn or understand better?
 * Since the project-sprints hasn't officially started yet I would first and foremost like to learn more about working agile in the SCRUM-way.
 * I am also inexperienced when it comes to working with github so I want to improve my knowledge in this area.
@@ -24,18 +23,18 @@ and you evaluate the outcome of the previous week (e.g. describing the current s
 Week 2
 
 What do I want to learn or understand better?
-  * I want to improve on areas similair to last week - learning how to work in an agile way with SCRUM. I have already 
-  read up on SCRUM quite a lot last week, and also participated on the excercises regarding SCRUM, but I still feel like there
-  is more to learn. This will be done by reading up on the areas and having joint discussions with the group.
-  * Improve my knowledge regarding the shipping business and the existing application we are going to work with.
-  * Once again continuing on areas mentioned last week - improving my knowledge working in GitHub. This will be done by rewatching 
-  the GitHub tutorials.
+* I want to improve on areas similair to last week - learning how to work in an agile way with SCRUM. I have already 
+read up on SCRUM quite a lot last week, and also participated on the excercises regarding SCRUM, but I still feel like there
+is more to learn. This will be done by reading up on the areas and having joint discussions with the group.
+* Improve my knowledge regarding the shipping business and the existing application we are going to work with.
+* Once again continuing on areas mentioned last week - improving my knowledge working in GitHub. This will be done by rewatching 
+the GitHub tutorials.
   
 How can I help someone else, or the entire team, to learn something new?
- * As mentioned last week - everyone on the team is pretty much on an even playing field when it comes to programming,
- and since we haven't officially started the project yet there isn't much I can teach in that regard.
- * I can however help my team with working in GitHub a bit more, since I feel like my knowledge has improved that department.
- For instanced how commit changes works, or what the different branches is.
+* As mentioned last week - everyone on the team is pretty much on an even playing field when it comes to programming,
+and since we haven't officially started the project yet there isn't much I can teach in that regard.
+* I can however help my team with working in GitHub a bit more, since I feel like my knowledge has improved that department.
+For instanced how commit changes works, or what the different branches is.
 
 What is my contribution towards the team’s application of scrum?
   * As mentioned above, I have read up on the concept of SCRUM and participated in the different excercises.
@@ -44,8 +43,6 @@ What is my contribution towards the team’s application of scrum?
   * I have been abroad together some of the other team members, so the members of the homefront have tried to inform us to 
   the best of their ability. We will make up for this next week, most likely exceeding 20h.
   
-    
-
 What is my contribution towards the team’s deliveries? That means that for the personal learning objective you will each week write down what you have achieved in relation to last week's ambition 
 (technologies, concepts and skills learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. 
 The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to change objective/s each week as long as you can motivate the change 
@@ -60,4 +57,29 @@ and you evaluate the outcome of the previous week (e.g. describing the current s
     * Completing our first official sprint in a successfull way, or at least in a way in which we learn from potential mistakes.
     This will be done mainly through trying to apply the knowledge I have gained from reading up on SCRUM and agile programming
     so far. 
+  
+Week 3
+
+What do I want to learn or understand better?
+  * I want to understand how to get application up and running. I am currently lacking knowledge in this department,
+and will strive to improve in order to contribute to the team.
+  * I want to learn more about the project in order to create more user stories.
+  * Learn some basics about java script.
+
+How can I help someone else, or the entire team, to learn something new?
+  * During the past weekend I tried to learn as much as possible about how Git, Node.js, EXPO works and believe I have gained some
+  basic knowledge. I think other members might have some troubles getting the application running, and therefore i might be 
+  able to help.
+  
+What is my contribution towards the team’s application of scrum?
+  * As mentioned above, I have tried learning more about the background of getting the application to run and am contributing
+  by helping others get their versions up and running.
+  
+What is my contribution towards the team’s deliveries? 
+  * In relation to last weeks goals I have been able to understand SCRUM better, increased my knowledge working in GitHub, 
+  gained more background knowledge about the project.
+  * Next week: I am looking to get the application up and running completely, without any problems. Currently I am having some
+  problems with permissions on the MacOS, but I am looking to solve this by next week. I would also like to gain even more
+  background knowledge about the project and create more User stories. Finally I would like to finish one of our first User 
+  Stories and increase my basic knowledge in Java Script.
   
