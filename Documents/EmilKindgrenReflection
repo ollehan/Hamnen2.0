@@ -78,3 +78,26 @@ I have getting good insight of the scenario itself which as i believe is the bac
 This week i have spent much time getting good knowledge of the scenario and information about the project and app itself. This has helped the team when we wrote our first user stories.
 I have also got myself some more knowledge of how github works and tried to get the whole programming environment up and running. Unfortonutley i still have some problems with permissions when i try to globally install npm. This needs to be fixed until next week.
 
+
+Individual Reflection week 4:
+
+ - What do I want to learn or understand better?
+Jag har nu fått hela programmeringsmijön att fungera och börjat sätta mig in i koden. Det jag vill utveckla mycket denna vecka är hur koden är uppbyggd, vilka filer som jobbar ihop osv.
+jag känner att scrum-metodiken börjar sitta men jag vill denna vecka känna att jag/gruppen riktigt bra lyckas jobba enligt product backlog med våra user stories osv.
+När jag dessutom lyckats bidra med lite kod så vill jag lära mig exakt hur det fungerar att pusha kod via Git och gitignore osv. Denna biten är fortfarande lite oklar då vi helt enkelt inte behövt göra detta än pga ingen relevant kod skrivits.
+
+ - How can I help someone else, or the entire team, to learn something new?
+Jag försöker sätta mig in i koden och när jag hittar något eller lär mig något som jag tror alla i gruppen kan ha nytta av är det vikgit att jag delar med mig av detta till alla för att vi inte ska behöva uppfinna hjulet på nytt varje gång.
+
+ - What is my contribution towards the team’s application of scrum?
+Det känns som jag, visserligen tillsammans med många andra i gruppen, börjar få relativt bra koll på hur Scrum-upplägget fungerar och vad som krävs av oss som medlemmar. Vi har ändrat en del i vårat upplägg och här känner jag att jag kunde vara med på ett bra sätt att ta fram det nya ramverket vi tog fram denna vecka med hur vi omformulerade de gamla user storiesarna osv.
+
+ - What is my contribution towards the team’s deliveries? 
+ - That means that for the personal learning objective you will each week write down what you have achieved in 
+ - relation to last week's ambition (technologies, concepts and  skills learnt as well as how this was achieved),
+ - what you would like to achieve for the next week and how to make the change happen. 
+ - The first week of the course you describe the current situation by motivating a learning objective. 
+ - It is perfectly fine to change objective/s each week as long as you can motivate the change and you 
+ - evaluate the outcome of the previous week (e.g. describing the current situation).
+I enligthet med tidigare skrivna mål har jag denna vecka lyckats förstå hur programmeringsmiljön fungerar. Detta har vi alla i gruppen hjälps åt med och bidragit till.
+Nästa vecka skulle jag vilja sätta mig in mycket bättre i koden vilket jag tror skulle gynna gruppen på det sättet att vi kan koppla user storiesarna mer till koden som finns och vad som behöver utvecklas i vardera stories. 
