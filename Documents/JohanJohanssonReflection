@@ -5,6 +5,8 @@ what do I want to learn or understand better?
   
   During the lecture at Open Arena i got a better understanding of our project so I feel that i completed that objective. I've not yet gotten all the applications running (Git, expo and so on) so that is crucial to get done in the coming week
   
+ Nu kommer mitt fokus ligga på att förstå appens kod och därigenom blir mer bekväm vid JavaScript, som jag aldrig har arbetat i innan.
+  
 
 how can I help someone else, or the entire team, to learn something new?
 * When the project progresses I will try to have an open mindset to be able to share my knowledge. 
@@ -13,6 +15,8 @@ how can I help someone else, or the entire team, to learn something new?
   The project hasen't developed much further since last week, so I haven't had any opportunities to help my teammates.
   
   We've used Trello to set up the backlogs, and I've used that platform before, so there I can help my group to set everything up.
+  
+  Jag kollade upp och kollade igenom några snabba tutorials för git, så att jag kunde förklara för andra saker som jag hade läst/hört. På detta sätt kunde jag föra vidare in kunskap till andra i gruppen.
 
 what is my contribution towards the team’s application of scrum?
 * This week has been mostly about trying to learn the basics of scrum, and we've not met with the group that much to plan the project.
@@ -21,6 +25,8 @@ what is my contribution towards the team’s application of scrum?
   This week I and many of the group members have been in Italy and therefore not contributed as much as the members back home. I have been reading more about scrum and our specific assignment.
   
   My main contribution is setting up the project and sprint backlog. We will continue to work on them the coming week.
+  
+  Jag har försökt att se till att vi skapar user stories som möter Scrum-kriterier. Jag tryckte på att vi ska börja enkelt och säkerställa att vi kan leverera värde till kund samtidigt som vi sedan kan utveckla stories med fler tasks. 
   
 what is my contribution towards the team’s deliveries? 
 That means that for the personal learning objective you 
@@ -40,3 +46,5 @@ My objective for next week is to catch up with the rest of the group and work on
 
 During the Open Arena session i caught up with the group and we talked alot about the project. I've started to understand how React native work and how Android Studio and Expo "talk", wich I think will be helpful when we start to code.
 For next week I want to improve my skills in JavaScript and get the environment fully running. I also want to commit lines of code to the project. 
+
+Denna sprint hade jag feber och var hemma några dagar vilket gjorde att jag inte har kunnat bidra så mycket. Vi bildade kodpar eller kodgrupper som skulle jobba med olika user stories och där ingick jag för att diskutera var vi skulle börja leta/jobba i appens kod. Jag har med hjälp av tutorials bättre förstått git. Tyvärr bidrog jag inte med någon kod då vi inte fick igång utvecklarmijön fullt under sprinten, samtiidigt som kodgrupper gör att jag inte säkert kommer att faktiskt koda. Mitt nya mål för nästa vecka är att vara starkt bidragande i min kodgrupp för att färdigställa vår User Story.
