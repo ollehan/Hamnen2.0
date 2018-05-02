@@ -220,3 +220,116 @@ Relation to literature and guest lectures (how do your reflections relate to wha
 We have studied the ScrumXP litterature and read the first 5 chapters. From these chapters we have learnt how to perform sprint planning, setting up the backlog and sprintlog and further how to rank user-stories importance and scope.
 
 
+Team Reflection Week 4 2018-04-25:
+
+Team Reflection-Sprint 2
+
+The chosen scope of the application under development including priority of features and for whom you are creating value.
+Vi har denna veckan lagt mycket fokus på vår Epic-User Story 3. Denna har målet att alla gruppmedlemmar ska lära sig programmeringsarktitekturen samt att använda sig utav de olika programmen som är nödvändiga för att dels utveckla appen samt för att kunna använda sig utav den agila metodiken och SCRUM.
+Denna vecka har vi även börjar med vår utveckling av de funktioner som anses skapa värde för end-user och produktägare. Detta har gjorts genom att dela upp ansvaret för två andra Epics som vi har samt att vi börjat bekanta oss med appens tekniska funktioner. Vi även börjar lägga till funktioner för att lära oss hur detta fungerar.
+Detta kan sammanfattas genom följande beskrivning
+Vart är vi idag?
+Vi är fortfarande i uppstartsfasen där vi håller på och lär oss de nödvändiga programmeringskunskaperna och utvecklingsverktygen som är lämpliga för att kunna leverera värde till våra stakeholders. Vi har idag bättre på koll på Scrum-metodiken än tidigare men vi känner samtidigt att vi saknar en del av den kunskap och kompetenser som vi känner att vi bör ha för att på ett bättre sätt kunna utföra sprintarna och utvärdera dessa.
+Vart vill vi?
+Vi vill komma till det stadie att vi känner att vi har koll på hur programmeringsmiljö fungerar samt att vi vet hur vi på ett bra ska angripa de problem vi stöter på när vi ska försöka implementera den funktionalitet som ges av våra user-story. Gällande Scrum-metodiken vill vi få en bättre förståelse för denna och speciellt vid hur valet av user stories, backlog, sprint log samt velocity bör utföras. Detta då vi känner att detta är något som skapar problem för oss idagsläget.
+Hur tar vi oss dit?
+Vi tar oss dit genom att fortsätta lära oss mer om programmeringsspråket samt då bättre förstå Java-script om hur appen är upplagd. Det är även nödvändigt att vi fortsätter vårt arbete med att lära oss mer om Scrum-metodiken vilket vi kör genom att fortsätta vår studie av den givna litteraturen.
+
+Our social contract
+Efter ett samtal med Jan-Philipp i förra onsdagen så bestämde vi oss för att byta sprintstart från måndag till onsdag. Detta kommer att gynna kommande sprints eftersom vi kommer kunna ha tillgång till produktägare/end-user/ansvariga lärare under både sprint planning meeting samt under sprint review. Detta innebär att sprint två fick förlängas med en halv vecka. Vidare har vi bestämt oss för att efter varje möte/kodtillfälle utvärdera och anteckna de problem vi har haft samt hur vi hade kunnat arbeta bättre. 
+Hur ser det ut nu?
+Måndag-till-till måndag sprints och ingen kontinuerlig reflektion. Detta medför svårigheter det är flera inblandade aktörer som bör vara med och bestämma hur sprinten ser ut för att uppnå bästa möjliga resultat. En av dessa är produktägaren, som vi bara har tillgång till på onsdagar. Att vi inte för någon Kontinuerlig reflektion medför svårigheter i skrivandet av den slutliga reflektionen för sprinten. Det är svårt att komma ihåg alla problem vi haft i detalj. 
+Hur vill vi att det ska se ut?
+Vi vill att produktägare/end-user/ansvariga lärare ska finnas tillgängliga under sprint planning meeting och dessutom kunna ge input/feedback på det som har åstadkommits i form av kod samt även reflektion. Detta är även en perfekt möjlighet att få vägledning i hur vi arbetar med scrum, målet är att kontinuerligt under sprinten reflektera över hur det går, samt hur vi kan göra det bättre. 
+Hur kommer vi dit?
+För att få med produktägare, end-user samt ansvariga lärare kommer vi ändra dag för att starta en ny sprint från måndag till onsdag. Vi kommer även börja anteckna våra reflektioner efter varje möte/kodtillfälle. Vårt social contract kommer uppdateras för att få med dessa förändringar. 
+
+The success criteria for the team in terms of what you want to achieve with your application
+Hur det ser ut idag?
+Vi har i dagsläget inga tydliga mått på hur vi kan mäta samt utvärdera vår prestation, förutom att “bocka av” user stories som vi har gjort. Genom att ha mer konkreta mått på prestationen kommer vi lättare kunna se vad som behövs förbättras för att gruppen ska fungera bättre. En stor anledning till varför det är såhär är eftersom hittills har våra User stories inte varit tillräckligt tydliga och alldeles för abstrakta. Detta kan härledas till att de hittills bestått av att vi som grupp ska sträva efter att lära oss mer om utvecklarmiljön för att i slutändan kunna skapa värde för kund.
+Hur vill vi att situationen ska se ut: Ha mer tydliga mått på när vi har “lyckats” med en deluppgift, uppgift eller sprint, för att tydliggöra vilka områden vi behöver jobba på.
+Hur ska vi ta oss dit?
+Genom samråd med handledare/examinator samt diskussion i gruppen kommer tydligare mål kunna sättas upp, som är enkla att mäta när de är uppnådda. Detta kommer även komma mer naturligt när vi lyckats bryta ner User Stories i mindre komponenter och tasks, då det då blir tydligare att se när man lyckats eller inte.
+
+Your acceptance tests, such as how they were performed and with whom
+Hur ser det ut nu?
+De acceptanstest som har utförts är test för att se om appens utvecklingsmiljö fungerar som den ska. Testet har gjorts genom att alla i gruppen har testat ifall appen går att starta genom visual studios på datorn samt ändrat något i koden för appen. Ändringar har exempelvis varit att ändra namn på en flik eller byta färg på någonting. Har denna ändring lyckats har testet setts som lyckat och en fungerande utvecklingsmiljö har uppnåtts.
+Hur vill vi att det ska se ut?
+Vi vill ha tydliga checklistor utifrån en dialog vi haft med end user för att kunna testa de ändringar vi gjort, så att de lever upp till de krav som ställs.
+Hur vi kommer dit?
+Genom att kommunicera med end user vid onsdagarnas möten så att tydliga definitioner kan göras kan vi sedan sätta upp en sprint som tar dessa definitioner i beaktning på så sätt att vi kan testa hur väl de delar som slutförs under sprinten stämmer överens mot det som gjort. 
+
+The design of your application (choice of APIs, architecture patterns etc)
+Vi har inte börjat designa applikationen ännu och därför är inte denna punkten gjord.
+
+The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+Inte relevant denna veckan
+
+The structural overview of your application (such as class diagrams, domain models or component diagrams)
+Inte relevant denna veckan
+
+Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+Epic 1: 
+As a vessel captain I would like to be able to see a timeline over my planned trips, that is being updated continuously
+User stories 1: 
+Som en båt vill jag se en konceptuell över hur MyTrip skulle fungera för att kunna påverka funktionaliteten
+Acceptance criteria: 
+Skapa en modell för hur appen kan tänkas se ut.
+Task breakdown: Skapa tre olika bilder i photoshop, en för varje del av appen; visa hur det ser ut i sidomenyn, visa hur det ser ut när man först klickar in i funktionen, visa hur det kan tänkas se ut när den fungerar som den ska.
+Effort estimation: 30
+Epic 3: 
+
+
+The three KPIs you use for monitoring your progress
+Customer satisfaction - We have yet to decide exactly how we are going the evaluate the customer satisfaction, but our preliminary thoughts are dividing customer satisfaction into different categories and then giving score on a scale from 1-10.
+Velocity - Interesting to see how our programming skills develops as we get deeper into the project. 
+Defects - In order to measure how well the software works we are going to measure the e.g. accumulated defects in the code. Our goal is to measure number of defects each monday morning and then compare it with the number of defects in the end of the week.
+Code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+
+
+The roles you have used within the team
+Vart är vi?
+Denna veckan har vi använt Olle som Scrum-master. Denna veckan har vi heller ej använt oss utav några andra roller trots att vi definierat dessa i vårt social contract.
+Hur vill vi att det ser ut?
+Till nästa sprint vill försöka använda oss av de roller som vi har definierat i vårt social contact. Detta för att bättre organisera vårt arbete och skapa tydliga ansvarsfördelningar
+Hur tar vi oss dit?
+Det viktigaste sättet för att ta oss till den situation där vi har tydliga roller är genom att vi gemensamt måste bestämma oss för att verkligen använda dessa roller under vårt arbete. 
+
+The agile practices you have used for the current sprint
+Vi har använt oss av ett flertal möten under veckan för att kunna kontrollera var alla ligger i sina user stories, samt hjälpa varandra på de områden som kan vara svåra.
+Hur ser det ut idag?
+Vi har använt oss flitigt av scrum-metoder denna veckan, främst genom att vi haft kontinuerliga möten och hjälpt varandra på de områden som behövs. Då mycket fortfarande handlar om att förstå utvecklingsmiljön finns det stor potential att hjälpa varandra, vilket vi utnyttjat bra. Vi har även börjat lägga in en kontinuerlig reflektion, där vi gör små reflektioner av varje möte för att se fall vi använder oss av Scrum-metodiken väl. Vi har även lagt om vår sprint för att bättre passa end user och produktägaren.
+Hur vill vi att situationen skall se ut?
+Idealt sätt hade vi utnyttjat SCRUM och agil programvaruutveckling till en ännu högre grad, genom att få fram bättre och tydligare user stories och tydligare mål för varje medlem.
+Hur tar vi oss dit?
+Vi har som en kontinuerlig uppgift för alla medlemmar i gruppen att läsa på i boken om SCRUM för att utveckla vår kunskap inom området. Vi har även som mål att lyckas bryta ner samtliga user stories i mindre beståndsdelar och tasks, för att lättare kunna utnyttja det agila tänket under sprinten. 
+
+The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+5 timmar onsdag eftermiddag möte med produktägaren samt IT-hjälp med att få igång utvecklarmiljön
+5 timmar möte fredag inom gruppen där vi gick igenom User stories och försökte bryta ner dem i tasks
+5 timmar möte måndag där vi alla lyckades få igång utvecklarmiljön och började förstå appens funktionalitet, samt skapade en modell över MyTrip-user storien
+3 timmar möte onsdag förmiddag där vi gick igenom och reflekterade över tidigare vecka, samt försökte fortsätta och omarbeta vissa user stories som visade sig vara icke-optimala.
+2 timmar arbete individuellt på att läsa på om SCRUM och hur git fungerar.
+
+Hur ser det ut idag:?
+Vi spenderar mycket tid på att lära oss om hur funktionaliteten är i appen. Tyvärr inte lika mycket spenderas på att skapa värde för slutanvändaren (genom att utöka funktionaliteten i appen)
+Hur vill vi att det ska se ut?
+Idealt sätt hade vi spenderat en större andel av den tillgängliga tiden varje vecka på att skapa värde och utveckla appen
+Hur tar vi oss dit?
+Genom att utöka vår kunskap kring hur appen är uppbyggd samt fungerar, och skapa mer konkreta user stories kommer vi enklare kunna dela upp uppgifter mellan olika medlemmar i gruppen och fokusera mer tid på att skapa ny funktionalitet som är i linje med vad slutanvändaren efterfrågar.
+
+The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+Vi fick bra feedback från både produktägaren och slutkunden när vi pratade om våra user stories, både på saker som vi hade prickat rätt på men vi blev även mer införstådda i saker som kanske inte är av största fokus. Vi visade upp mockup-bilder på en sida i appen som uppskattades.
+Det vi vill göra till nästa review är att ha lyckats göra ändringar i appen så att vi på riktigt kan visa upp förändringar som vi har implementerat.
+Nu har vi till slut fått igång git och borde däför kunna pusha kodändringar till vårt repo så att vi kan börja bygga vår version av appen. Detta borde möjliggöra att faktiskt kunna visa upp en förändrad app.
+Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+Vi har blivit mer vana vid Trello och även GitHub så att vi effektivt kan fördela arbetsuppgifter. Vi har börjat med att koda i par.
+Vi vill bli mer bekväma vid git och versionshanteringen för att utvecklingsflödet ska bli enklare och fokuset istället kan läggas på att addera värde till kund.
+Vi får öva och testa oss fram för att bli bekväma vid git och dess kommandon.
+Relation to literature and guest lectures (how do your reflections relate to what others have to say?
+Hur ser det ut i dagsläget: I dagsläget har vi läst måttligt i den tillgängliga litteraturen då de tekniska problemen de första veckorna legat i fokus för att få igång applikationen. Därför har reflektionerna inte kunnat hänvisa och relatera speciellt mycket till litteraturen. 
+Hur vill vi att det ska se ut:  Vi vill vara mer insatta i kurslitteraturen och därigenom eliminera många frågor som vi inte hade behövt ha.
+Nu när de tekniska problemen till stor del är undanröjda kan vi lägga mer tid på att sätta oss in i litteraturen och öka vår kunskap.
+
+
+
