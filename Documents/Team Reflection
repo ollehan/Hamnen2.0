@@ -332,4 +332,151 @@ Hur vill vi att det ska se ut:  Vi vill vara mer insatta i kurslitteraturen och 
 Nu när de tekniska problemen till stor del är undanröjda kan vi lägga mer tid på att sätta oss in i litteraturen och öka vår kunskap.
 
 
+Team Reflection Week 4 2018-05-02:
+Team Reflection-Sprint 3
+The chosen scope of the application under development including priority of features and for whom you are creating value.
+Hur ser det ut nu:
+I dagsläget har applikationen i princip samma funktioner som grundversionen med små tillägg som mest är för utvecklingstester. Vi har fortsatt jobbat på att få igång och lära oss utvecklingsmiljön vilket är ett krav för att vi ska kunna lösa de funktioner som efterfrågas av end-user samt produktägare. 
+Hur vill vi att det ska se ut: 
+Vi har kommit till ett stadie nu där vi börjar få grepp om utvecklingsmiljön men vi har samtidigt fortfarande svårigheter med att förstå vissa moment som behövs för att kunna helt utveckla de funktioner som efterfrågas. Vi är fortfarande inte helt säkra på att alla våra funktioner kommer gå att implementera och att det skapar något värde för slutanvändaren. 
+Hur tar vi oss dit?
+Som sagt så måste vi förtydliga vissa saker med produktägarna gällande vilka funktioner som ska implementeras. Med detta hoppas vi kunna sätta ett rimligt scope för kommande sprint. 
+
+Our social contract
+Hur ser det ut nu:
+Sociala kontraktet har inte förändrats något denna veckan, men på grund av röda dagar samt väldigt mycket att göra i andra kursen så har vi inte haft ett möte på måndagen.
+Hur vill vi att det ska se ut:
+Vi vill och hoppas kunna vara bättre på att följa kontraktet framöver och samtidigt kunna kompensera för förlorad tid.
+Hur tar vi oss dit:
+Vi kommer att dels behöva prioritera om vår tid och samtidigt hitta en balans mellan kurserna. Med det sagt så kommer majoriteten av gruppen ha mer tid framöver eftersom att kandidatarbetet börjar dra ihop sig. 
+
+The success criteria for the team in terms of what you want to achieve with your application
+Hur ser det ut idag?
+Vi har gjort våra user stories mer tydliga vilket gör att det är lättare att förstå när denna är uppfylld. Dock finns det fortfarande vissa user stories som kan ses som lite “luddiga” och svåra att veta när vi klarat av eller inte. 
+Hur vill vi att det ska se ut?
+Optimalt skulle vara att vi vet exakt när alla user stories är uppfyllda och exakt vilken funktion som ska tillföras och kunna testas för att user stories ska ses som uppfyllda. 
+Hur kommer vi dit?
+För att komma dit ska vi ha bra kommunikation i gruppen så att alla är med på vad som menas med våra user stories och vilken funktionalitet som ska läggas till. Vi måste även tänka på att skriva konkreta user stories samt success criterias så att det är solklart när dessa är nådda. 
+
+Your acceptance tests, such as how they were performed and with whom
+Vi har inte gjort några acceptanstest denna i veckan så denna frågan är irrelevant för denna veckas reflektion. 
+
+The design of your application (choice of APIs, architecture patterns etc)
+Inte relevant för veckans sprint
+
+The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+Inte relevant för veckans sprint
+
+The structural overview of your application (such as class diagrams, domain models or component diagrams)
+Inte relevant för veckans sprint
+
+Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+Bifogar bilder på detta.
+Veckans scope var alldeles för stort och ambitiöst, speciellt med tanke på röda dagar, klämdag samt mycket att göra i kandidaten. 
+Detta resulterade i att vi inte fick gjort alls något av det vi hade planerat. Vi har historiskt haft en väldigt ambitiös bild över 
+vad vi vill ha gjort, vilket resulterar i att gruppen har känt sig stressad över att inte kommit så långt som vi velat. Denna 
+stressen resulterar i sin tur i ett överambitiöst scope, vilket gör att vi har svårigheter att utvärdera vår velocity och effort. 
+Vi vill istället uppnå ett mer realistiskt scope vid sprintplaneringen för att lättare kunna utvärdera velocity och scope, samt för 
+att inte bidra till den ökade stressen. För att uppnå detta planerar vi att, i samråd med produktägare, ha ett väldigt smalt scope och 
+istället utveckla scopet om det skulle behövas. Vi prövar alltså ett motsatt approach till hur vi gjort hittils, där vi haft ett 
+jättebrett scope.
+Vidare är det svårt att utvärdera hur väl våra acceptance criteria fungerade då vi ej nådde dem vilket så klart hänger ihop med att 
+vi satt våra criterias och scope alldeles för stora. Vi vill i framtiden ha mer relevanta acceptance criterias som vi tror att vi kan 
+nå. Detta gör vi genom att sätta ett mer rimligt scope som är bättre anpassad till våra verkliga velocity.
+
+The three KPIs you use for monitoring your progress
+Customer satisfaction - We have yet to decide exactly how we are going the evaluate the customer satisfaction, but our preliminary 
+thoughts are dividing customer satisfaction into different categories and then giving score on a scale from 1-10.
+Velocity - Interesting to see how our programming skills develops as we get deeper into the project. 
+Defects - In order to measure how well the software works we are going to measure the e.g. accumulated defects in the code. Our 
+goal is to measure number of defects each monday morning and then compare it with the number of defects in the end of the week.
+
+Code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if 
+you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+Inte relevant för denna veckan.
+
+The roles you have used within the team
+Vart är vi?
+Denna veckan har vi använt Jonathan som Scrum-master. Vi har i dagsläget ej använt oss utav några andra roller trots att vi 
+definierat dessa i vårt social contract.
+Hur vill vi att det ser ut?
+Till nästa sprint vill försöka använda oss av de roller som vi har definierat i vårt social contract. Detta för att bättre 
+organisera vårt arbete och skapa tydliga ansvarsfördelningar. Detta mål blir förhoppningsvis lättare att leverera eftersom att 
+vi kommer ha mindre att göra i andra kursen. 
+Hur tar vi oss dit?
+Vi kanske bör se över de roller som finns i det sociala kontraktet. Det viktigaste sättet för att ta oss till den situation där vi har tydliga roller är genom att vi gemensamt måste bestämma oss för att verkligen använda dessa roller under vårt arbete. Här anser vi också att vår SCRUM-master har en viktig roll då vi har gett denne ansvaret att fördela roller.
+
+The agile practices you have used for the current sprint
+Var är vi?
+Nu har vi kört ett system med möte 3 ggr i veckan, fredag, måndag och onsdag där vi på alla möten dokumenterar och reflekterar kort. 
+Utvärderingsdelen har vi fått öva mycket på då vi har fått revidera en stor del av projektet, som vårt scope till velocity. Velocityn 
+för sprinten var satt alldeles för hög. Antaganden som den baserades på gällde inte, vilket kan förklaras till viss del av gruppens 
+stress över att realisera stories. Tekniska problem bl.a. har tidigare lett till att vi inte är där vi enligt vårt gamla scope vill vara. 
+Dåliga insikter om vår tillgänglighet under veckan var också bidragande till att vår velocity var för hög. första maj + valborg gjorde 
+att vår tillgängliga tid var mindre än antaget. 
+
+Hur vill vi att det ska se ut?
+Vi vill på grund av stress bedömt vår velocity och effort esitimation bättre för att på ett bättre sätt kunna utföra vår nästa sprint. Samtidigt vill vi också förbättra vår utvärdering och iterationsförfarande. 
+
+Hur ska vi nå detta?
+Detta gör vi genom att vara mer realistiska när vi uppskattar vår velocity och effort vilket vi nämnt tidigare. För att förbättra vår 
+utvärderingsförfarande kommer vi att efter varje gång vi ses försöka att reflektera mer hur vi har gått. Då vi tidigare haft överskattat 
+vår velocity ganska mycket har vi valt att istället vara pessimisstiska denna gången för att se vart vi hamnar denna gången.
+
+The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+Vart är vi?
+Den här veckan har endast 10h spenderats på grund av valborg, 1a maj samt en del slutspurter i kandidaten. Detta resulterar i att vi inte 
+fick gjort lika mycket som vi hade planerat. Vi kommer att nästkommande vecka göra upp för detta genom att lägga 30h/person när vi det 
+(förhoppningsvis) är mindre med kandidaten.
+3 timmar första onsdagen - startmöte för sprinten. Specificerade user stories och vad vi ville ha gjort under veckan.
+2 timmar andra onsdagen - Review över hur veckan har gått samt
+5 timmar fredag - jobba med user stories och få utvecklarmiljön att fungera på samtliga datorer. Även lärt oss hur git fungerar så vi kan 
+använda versionshantering
+Vart vill vi?
+Vi vill nästa vecka ha ett mer jämnt och realistiskt arbetsflöde där vi bättre har uppskattat hur mycket tid vi kommer att kunna använda 
+oss utav. 
+Vi vill i största möjliga grad hålla 20h per person och veca
+Hur tar vi oss dit.
+Detta kommer vi att göra genom att på uppstartsmötet/ sprintplanningen på onsdagen att gå igenom allas kalendrar och vara mycket ärliga 
+när vi planerar för att undvika att vi hamnar i samma situation som denna veckan.
+
+
+The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+Vart är vi?
+Under punkten user stories beskrivs nuläget i ganska bra detalj, främst att planeringen av scopet inte var speciellt bra. Dels för att 
+scopet var för brett men även för att vi var överambitiösa gällande hur mycket tid vi trodde vi skulle kunna lägga ner på programmeringen. 
+Vi har dock lyckats med ett delmål - att få igång utvecklarmiljön samt versionshantering på samtliga datorer så att möjligheterna för att 
+utveckla appen finns där. 
+Vart vill vi?
+Vi skulle vilja spendera en större andel av tiden att faktiskt utveckla och leverera något konkret. 
+Hur tar vi oss dit?
+Vi planerar att ta oss dit genom att ha ett mer realistiskt scope samt tidsplanera bättre så att tiden vi lägger på kursen utnyttjas 
+optimalt. Vi har även konkretiserat user stories till högre grad för att på så sätt kunna dela upp dem och utnyttja parprogrammeringen 
+mer effektivt. 
+Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+Vart är vi?
+Vi har börjat använda oss av git som versionshantering. Detta var utmanande för gruppen då det är en helt ny teknik vi inte använt oss av 
+tidigare, vilket betyder att vi var tvugna att lära oss nya kommandon osv. I dagsläget har vi fått igång det grundläggande med git.
+Vart vill vi?
+ Vi önskar att få ökad förståelse och kan använda den fulla funktionaliteten av branches osv. 
+Hur tar vi oss dit?
+Detta kommer uppnås dels genom trial and error, dvs. vi använder git i praktiken och försöker lära oss genom det, men även genom att 
+gruppmedlemmarna ska försöka läsa på om området.
+Relation to literature and guest lectures (how do your reflections relate to what others have to say?
+Hur ser det ut idag?
+Idag har vi inte full koll på litteratur kopplat till SCRUM, vi var mycket bättre under prepveckorna på att läsa på och skapa förståelse 
+för hur man arbetar med SCRUM.  De senaste veckorna har mer legat på tekniska bitar och timmarna vi har på den här kursen har gått åt 
+till att få igång en utvecklingsmiljö för att vi så fort som möjligt ska kunna skapa värde åt slutanvändaren. 
+Med hjälp av litteratur samt med hjälp av Pontus och klasskamrater har vi lyckats åstadkomma en gemensam repository som vi pushar till. 
+Var vill vi komma?
+Vi vill arbeta efter SCRUM och kunna applicera litteraturen på sättet vi arbetar på. Om vi gör det tror vi att vårt arbete kommer få 
+färre problem med och gå mer smärtfritt än förut. Osäkerheten i gruppen har även varit väldigt stor och ingen vet riktigt vad dom ska göra. Ifall vi kan komma igång med ett bättre SCRUM-tänk tror vi att osäkerheten kommer reduceras och hela gruppen kommer prestera bättre. 
+Hur kommer vi dit?
+Vi behöver ta hjälp av kursansvariga och samtidigt läsa mer av den litteratur som finns på kurshemsidan. På onsdagar har vi ett ypperligt 
+tillfälle att fråga examinator och kursansvariga om hjälp relaterat till just litteratur och SCRUM-frågor. 
+
+
+
+
+
 
