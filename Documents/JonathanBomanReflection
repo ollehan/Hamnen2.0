@@ -1,3 +1,32 @@
+Week 6:
+what do I want to learn or understand better?
+  * Jag vill bli bättre på Java Script eftersom jag under denna veckna har stött på svårigheter i och med implementering av ny
+    funktionalitet. 
+  * Jag vill också bli bättre på att sätta/utföra acceptance test för varje user-story samt lära mig hur man på ett lämpligt
+    sätt testar koden för buggar. 
+
+How can I help someone else, or the entire team, to learn something new?
+  * Denna veckan precis som förra veckan har jag varit SCRUM-master och har då haft en viktig roll som förmedlare mellan mina
+    gruppmedlemmar samt de andra grupperna. Förutom detta så har jag haft extra ansvar för team-reflection, vilket innebär
+    att jag har försökt förstå och tolka de olika frågorna som skall svaras på enligt kurshemsidan.
+
+What is my contribution towards the team’s application of scrum?
+  * I början av sprinten satt jag mycket med en user-story där vi skulle sortera bland de olika Berths som kaptenen är påväg till.
+    Detta visade sig vara mer komplicerat än vad vi föst trodde så jag la vidare fokus på att sätta mig in i reflektionerna 
+    istället. Jag kommer dock under kommande sprint fortsätta med den user-storyn efter att ha klargjort lite med Pontus. 
+
+What is my contribution towards the team’s deliveries? That means that for the personal learning objective you 
+will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills 
+learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. 
+The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to 
+change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week 
+(e.g. describing the current situation).
+  * Denna veckan har framförallt handlat om att koda och att leverara någon faktiskt funktionalitet till produktägaren.
+    Detta har lett till en bättre utverdering och bättre underlag för framtida sprints. 
+  * Kommande vecka så ska jag fortsätta att leverera ny funktionalitet och kommer dessutom försöka bli bättre på att
+    testa koden via acceptens tests och samtidigt test koden för buggar. Vidare kommer jag tillsammans med gruppen
+    försöka leverara lite konceptuella modeller på tänkbar funktionalitet som har efterfrågats av produktägare.
+
 Week 5:
 what do I want to learn or understand better?
   * Jag vill bli bättre på att sätta velocity för framtida sprintar och göra detta med avseende på hur mycket tid jag faktiskt
