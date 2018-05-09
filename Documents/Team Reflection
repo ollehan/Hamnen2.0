@@ -476,6 +476,157 @@ Vi behöver ta hjälp av kursansvariga och samtidigt läsa mer av den litteratur
 tillfälle att fråga examinator och kursansvariga om hjälp relaterat till just litteratur och SCRUM-frågor. 
 
 
+Team reflection week 5
+Team Reflection-Sprint 4
+
+The chosen scope of the application under development including priority of features and for whom you are creating value.
+    Hur ser det ut nu?
+        I dagsläget har applikationen försetts med ett antal nya funktioner. Exempelvis finns numera en funktion där en kapten kan välja sitt fartyg när hen loggar in i appen. Vilket gör att kaptenen inte kan byta runt mellan olika fartyg. Produktägaren var väldigt tydlig med att detta var en mycket viktig funktion och funktionen kommer skapa värde för både produktägaren samt slutanvändaren. Vi har även börjat på en funktion som sorterar kajarna i appen så att den kajen som kaptenen ska till näst visas högs upp under “Berth View”. Detta kommer skapa värde för slutanvändaren då det skapar enkelhet för kaptenen. Denna funktion är under utveckling, dock har vi haft mycket problem med själva kodningen.
+
+    Hur vill vi att det ska se ut: 
+        Vi vill skapa ännu mer värde för de olika parterna och då måste vi utveckla fler funktioner. Först och främst ska vi se till att få klart den funktionen som är under utveckling. Sedan förra veckan har vi minskat scopet en aning men motiverar detta genom att de funktioner som vi väljer att utveckla istället ska fungera smärtfritt och vara väl implementerade. 
+
+    Hur tar vi oss dit?
+        Då vi använder oss av parvis programmering har vi i gruppen utvecklat olika funktioner. Då vi i gruppen har olika velocity och kunskap kommer vi nu testa att byta uppgifter och att de som här lite mer kunskap utvecklar de funktionerna som har visat sig vara lite svårare än de andra. På så sätt tror vi att vi kan effektivisera vårt sätt att arbeta och på så sätt skapa mer värde för kunden under de timmarna vi har att röra oss med. 
+        Vi kommer även ta hjälp av andra kurskamrater och lärare för att kunna lösa själva kodandet av funktionen. 
+
+Our social contract
+    Hur ser det ut nu?
+        Det sociala kontraktet har inte förändrats något till denna veckan utan vi har enligt vårt ursprungliga kontrakt haft möte måndag, onsdag och fredag samt programmerat parvis. Programmeringsparen har ansvar över sina tilldelade uppgifter. Problemen denna vecka har varit att det har varit svårt att samla hela gruppen vid programmeringstillfällen då kandidatarbetet har varit i vägen. 
+
+    Hur vill vi att det ska se ut?
+        Vi ser att det finns ett stort internt värde av att alla ska kunna medverka på mötena under sprintarna. På så sätt blir det lättare att få ihop samarbetet och tillfälle att dela med sig av kunskapen man fått i kodens struktur osv. Vi tänkte även göra ändringar i gruppens roller.
+    
+    Hur tar vi oss dit?
+        För att alla ska kunna medverka på mötena under veckan så kommer vi med start nästa sprint flytta mötena till eftermiddagarna så att det lättare passar ihop med alla medlemmars scheman. Alla gruppmedlemmar kommer ha mer tid framöver eftersom att kandidatarbetet snart ska vara inlämnat. Vi tänkte även göra ändringar i gruppens roller för att få mer tydligt definierade roller och öka förståelsen för hela arbetsprocessen (Detta beskrivs mer ingående nedan).
+
+The success criteria for the team in terms of what you want to achieve with your application
+    Hur ser det ut idag?
+        Idag har vi inte några deffinerade success criteraia då vi har haft svårt att förstå hur dessa ska se ut. 
+    
+    Hur vill vi att det ska se ut?
+        Vi vill ha tydligt definierade success criteria som tydligt representerar de mål som gruppen har med den application som vi levererar 
+    
+    Hur kommer vi dit?
+        Vi ska på onsdagen diskutera detta och få ett förtydligande angående exakt vad success criteria är. Detta tar vi med kursansvariga. 
+
+Your acceptance tests, such as how they were performed and with whom
+    Hur ser det ut idag?
+        Efter rådgivning med produktägare samt kursansvarig har vi under denna sprint bestämt oss för att minska vårt scope då vi under tidigare sprints missbedömt gruppens velocity. Denna veckan har vi alltså haft bättre förutsättningar att tydligt kunna definiera acceptance tests och har varit tydliga mot produktägaren vad det är vi ska leverera under sprinten. Något vi inte har gjort däremot är att tydligt dokumentera exakt hur vi ska testa funktionaliteten, detta är något vi måste bli bättre på framöver. 
+
+    Hur vill vi att det ska se ut?
+        Vi vill ha tydligt definierade acceptance tests för varje user-story som är framtagna i samråd med produktägare. 
+    Hur kommer vi dit?
+        Vi ska inför nästa sprint i grupp komma fram till acceptance test för våra user-stories och sen få dessa godkända av produktägare. 
+
+The design of your application (choice of APIs, architecture patterns etc)
+    Inte relevant för veckans sprint
+
+The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+    Inte relevant för veckans sprint
+
+The structural overview of your application (such as class diagrams, domain models or component diagrams)
+    Inte relevant för veckans sprint
+
+Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+Bifogad bild nedan är hur user stories ser ut inför onsdagens möte. 
+
+
+Den här veckan har vi klarat av vår första epic (EPIC 2) som ses i bilden. Under denna epicen fanns 8 separata user stories som alla var komponenter till den slutgiltiga epicen. Den sammanlagda efforten landade på 146 när alla user stories var summerade. Detta betyder att vår uppskattade velocity var lite lägre än den verkliga velocityn. 
+
+    Hur ser det ut idag? 
+        Vi har klarat av en helt epic under en sprint. Det är den första sprinten där vi som grupp känner att vi har bidragit med något konkret värdeskapande för slutkunden. Detta är något vi hittills haft problem med då utvecklarmiljön inte varit fungerade för samtliga medlemmar i gruppen. Då vi har som övergripande mål att skapa värde för slutkunden har vi valt att vara 2-3 personer per dator då vi anser att detta effektiviserar vårt arbete. Bevisligen har detta fungerat bra då vi producerat avsevärt mycket mer i jämförelse med tidigare sprinter
+    Hur vill vi att det ska se ut?
+        Vi har upplevt problem med vissa andra epics som har varit för avancerade för oss. Vi skulle vilja att vi på ett bättre sätt planerar våra epics så att vi väljer de som vi faktiskt klarar av att genomföra, alternativt hittar sätt att klara av dessa avancerade epicsen.
+    Hur planerar vi att ta oss dit?
+        Ha en mer genomtänkt planering inför sprinten genom att lägga mer tid samt ha en mer genomgående diskussion med produktägaren och slutanvändaren. När det kommer till de user stories och epics vi inte känner att vi kan klara av planerar vi att stämma in möten med Pontus (IT-ansvarig) samt kolla med övriga grupper om hjälp.
+
+The three KPIs you use for monitoring your progress
+    Vi har tydligare definerat dessa KPI:er denna veckan och kommer från och med Sprint 5 att börja utvärdera utifrån dessa. 
+        Customer satisfaction - Detta mäts genom att dela in kundnöjdheten i kategorier och sedan sätta en poäng på en skala mellan 0 och 10. Ju längre arbetet fortlöper desto högre hoppas vi dessa faktorers poäng blir och vi kan genom de mäta att framsteg är gjorda. Kategorierna som bedöms är:
+        Antal implementerade funktioner: 
+        Hur välarbetade och integrerade de implementerade funktionerna är: 
+        Funktionernas bidragande nytta för slutanvändaren: 
+        Funktionernas bidragande nytta för produktägaren: 
+        Velocity - Genom att mäta veckans genomförda velocitypoäng kan vi se hur duktiga och insatta vi blir i programmets kod och språket javascript. Här krävs dock att vi är duktiga på att sätta rimliga och jämförbara velocitypoäng genom hela arbetet. 
+        Defects - För att se hur bra programmet fungerar kommer vi mäta de totala antalet defekter. Genom att göra detta kontinuerligt genom arbetets gång kan vi få en bra bild av hur kodningen går och hur väl de implementerade funktionerna fungerar. Denna kommer precis som övriga KPI:er uppdateras på slutmötet för sprinten på onsdagara och kan på så sätt jämföra med veckan innan. Defects kan då hjälpa till att förstå hur kodningen gått inför varje sprint-review. 
+
+Code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+    Var är vi?
+        Vi har denna veckan för första gången lyckats leverera något konkret i form av kod. Då vi inte tidigare har lyckats programmera något konkret värdeskapande för slutkunden har vi dålig kunskap kring hur findbugs fungerar, och hur vi ska kontrollera vår kodkvalitet. Pga. detta har vi inte genomfört någon kvalitetskontroll denna veckan.
+    
+    Vart vill vi komma?
+        Vi vill kunna genomföra kontinuerliga kvalitetskontroller under sprintens gång för att kunna potentiell åtgärda problem innan sprinten är över. 
+    
+    Hur planerar vi att ta oss dit?
+        Vi planerar att under onsdagen ha ett möte med IT-ansvarig samt dubbelkolla med övriga grupper för att söka hjälp med hur findbugs fungerar. Fungerar detta inte kommer vi använda oss av google och övriga internet för att finna denna information.
+
+The roles you have used within the team
+    Vart är vi?
+        Denna veckan har vi använt Jonathan som Scrum-master. Resterande gruppmedlemmar har haft rollen som developers. 
+    Hur vill vi att det ser ut?
+        Precis som tidigare veckor strävar vi efter att alla ska ha tydliga roller och ett jämt ansvarsområde sett över alla medlemmar i gruppen. Vi har genom hela arbetsprocessen värdesatt att alla medlemmar får möjlighet att testa på olika arbetsroller och ansvarsområden för att ge en bättre förståelse för arbetsprocessen. Det här vill vi fortsätta med så gott det går. Här ser vi dock ett behov av att definiera än tydligare vad vardera roll ska bidra med och säkerställa att alla medlemmar förstår vad sin roll för veckan gör för att skapa värde för projektets arbetsgång. 
+
+    Hur tar vi oss dit?
+        Vi behöver inför varje vecka se till att alla är väl informerade om sina rollers innebörd och vad för arbetssysslor och vad som förväntas av denna i sin roll. Tydligare uppdelningen här kommer skapa möjlighet för ett effektivare arbete.
+
+
+The agile practices you have used for the current sprint
+    Var är vi?
+        Vi har fortsatt på föregående system med möte 3 ggr i veckan där vi dokumenterar vad som sägs och reflekterar över hur de olika user stories:arna går osv. Förra veckan fanns stora problem med uppskattningen av sprintens velocity. Mycket av detta låg på att tekniska problem som vi inte räknade med uppstod. Inför denna vecka var detta åtgärdat men trots det har vi även denna vecka upplevt en del problem med den uppskattade velocityn. Främst upplevs det finnas svårigheter med att väga olika user stories mot varandra. Den stora faktorn till detta är okunskap i koden där vissa user stories utger sig för att vara relativt lätta men när man sedan går ner i koden visar det sig ligga mer bakom än vad som tidigare uppskattades eller vice versa. Detta tror vi naturligt kommer blir bättre och bättre med tiden då vi blir mer bekanta med koden och dess struktur. Vi ser dock detta som en väldigt viktig del och för att få till en jämn arbetsfördelning med effektiva sprints måste detta jobbas mer på. 
+
+    Hur vill vi att det ska se ut?
+        Vi vill kunna uppskatta velocityn på ett bättre sätt för att få en mer tydlig bild av vad som är möjlig på en vecka och på det sättet säkerställa att så mycket värde som möjligt skapas varje vecka för slutanvändaren och/eller produktägaren. 
+    
+    Hur ska vi nå detta?
+        Vi har nu under två veckor stött på problem som vi inte i början av sprinten förutspådde (tekniska problem och en felskattning i arbetsbörda pga dålig kunskap kring kodens struktur). Att hantera dessa motgångar på ett bra sätt är vår uppfattning av vad ett agilt arbetssätt innebär och därför såklart eftersträvansvärt. På detta område finns mycket förbättringar. För att inte hamna i en negativ spiral där vi aldrig når en sprints mål och riskera att inget värde skapas i programmeringen behöver därför scoopet på en sprint ändras. Ett sätt är att ändra till en mer pessimistisk syn på velocityn och genom de ta höjd för framtida osäkerheter. Å andra sidan är de såklart viktigt att minska osäkerheterna inför varje vecka. Vi känner därför att en kombination av dessa till en början är att föredra. I fortsättningen kommer vi sträva efter att i grupp sätta bättre velocity på alla user stories genom att säkerställa att alla medlemmar kan ge sin synpunkt på vad som krävs, då den samlade kunskapen kring koden och appens struktur är bra mycket mer än vad den är på individnivå. 
+
+The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+    Vart är vi?
+        Den här veckan har vi lagt ner 30h för att det bara blev 10h förra veckan.
+        3 timmar första onsdagen - startmöte för sprinten. Specificerade user stories och vad vi ville ha gjort under veckan.
+        4 timmar andra onsdagen - Review över hur veckan har gått samt
+        11 timmar fredag - jobba med user stories 
+        12 timmar måndag - jobba med user stories
+    
+    Vart vill vi?
+        Vi vill nästa vecka ha ett mer jämnt och realistiskt arbetsflöde där vi bättre har uppskattat hur mycket tid vi kommer att kunna använda oss utav. Vi vet att det är en röd dag i nästa vecka därför vill vi hålla oss till 15h per person. I och med kandidat deadline på måndagen så kommer det bli svårt att lägga mer.
+    
+    Hur tar vi oss dit?
+    Vi tar oss dit genom att på onsdagen planera in de kommande tillfällena så att vi är säkra på att vi har tillräckligt med tid där alla kan.
+
+The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+    Vart är vi?
+        Denna vecka har fokus kunnat läggas mer på att skapa värde och konkreta funktioner i appen. Detta har möjliggjorts av tidigare veckors arbete kring att få igång en fungerande programmeringsmiljö och versionshantering. Däremot så, precis som vi varit inne på har programmeringen tagit mer tid än vad vi först trodde. Mycket på grund av att full inblick i appens källkod saknats vilket dels gjort user storiesen svårarbetade vilket lett till svåra uppskattningar på tidsåtgången.t 
+
+    Vart vill vi?
+        Vi skulle vilja ha bättre scope för vardera vecka. Med ett mer rimligt antal user stories för veckan kan också högre krav ställas på att de blir bearbetade. Om någon gruppmedlem stöter på problem är det viktigt att denna meddelar så fort den märker detta för att gruppen i helhet enklare ska kunna hjälpa varandra och inte fastna i samma problem hos vardera medlem. 
+    Hur tar vi oss dit?
+        När det gäller en sprints scope kommer mycket, som tidigare skrivits, av erfarenhet och lär bli bättre ju fler sprints vi gör. Däremot kan en mer pessimistisk approach tillämpas där också mer tid läggs på att faktiskt fundera ut i grupp hur en ungefärlig lösning på storiesen kan se ut och i vilka filer man bör leta. Detta för att ta del av allas kunskaper och insikter på ett bättre sätt. Utöver detta är det även viktigt att vi har en god kommunikation, även utöver mötena. Detta för att inte fastna i ett problem tidigt efter möte och sedan inte kunna jobba vidare på flera dagar. 
+
+Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+    Vart är vi? 
+        Idag arbetar vi med git utan att använda oss av branches. Detta då vi fick tipset av Pontus att hålla oss till grundläggande funktioner och kommandon och därmed arbeta mot mastern hela tiden. Vi använder oss av trello för att ha koll på vår scrum board. 
+
+    Vart vill vi?
+        Som vi ser det hade det varit önskvärt att kunna arbeta med branches. Önskvärt hade varit att kunna fler kommandon för git och förståelse kring dessa så att vi lättare kan lösa problem ifall de uppstår utan att ta extern hjälp genom att fråga andra i kursen. 
+
+    Hur tar vi oss dit?
+        Som det ser ut i dagsläget så kräver det tid och läsning för att kunna implementera användningen av branches och vi ser det som en högre prioritet att arbeta fram funktionalitet. Därför lägger vi tid på det nu och räknar inte med att ha tid att kunna komma till ett stadie när vi kan arbeta med branches. Vi fortsätter att läsa på och testa oss fram för att kunna uppnå en högre förståelse för git och dess kommandon. 
+
+Relation to literature and guest lectures (how do your reflections relate to what others have to say?
+    Hur ser det ut idag?
+        Idag arbetar helt okej enligt Scrum, dock kan vi ha tappat lite av de teoretiska bitarna då det varit mycket tekniska problem för alla i vår grupp och vi lagt mer tid på det utan något “Scrumtänk”. Vi försöker hålla oss till de förutbestämda mötestiderna även om det blir väldigt svårt och jobbigt när alla i gruppen har väldigt mycket med kandidatarbetet såhär i slutet på det arbetet. Detta har gett oss lite problem att att verkligen applicera Scrums teori på ett optimalt sätt. 
+
+    Var vill vi komma?
+        Vi vill komma till det stadiet att vi applicerar scrums teori på hela vårt arbete utan några hinder eller problem. Vi tror att detta skulle medföra att projektet går bättre och smidigare och att vi kan skapa ännu mer värde för produktägaren samt slutanvändaren. Vi tror också att den osäkerhet som finns i gruppen skulle reduceras, något vi verkligen behöver. 
+
+Hur kommer vi dit?
+	- 	Problemet med att vi inte kan samlas som grupp kommer förhoppningsvis att lösas till viss del så fort alla är klara med kandidaten. Detta eftersom vi då kommer kunna lägga större fokus på den här kursen och att vi kommer kunna prioritera dessa möten och inte bara jobba när vi hinner och inte måste jobba med kandidatarbetet. 
+Dock kommer det såklart inte lösa alla problem utan vi måste samtidigt läsa på ännu mer om Scrum för att komma till de stadiet när vi jobbar riktigt bra med Scrum.
+
+
+
 
 
 
