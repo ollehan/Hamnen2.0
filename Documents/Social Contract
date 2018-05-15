@@ -1,13 +1,48 @@
 Social Contract:
-●	Weekly meetings are Monday, Wednesday and Friday. 
-  ○ Meetings on Wednesday is the core of the sprint, it is the sprint planning meeting as well as sprint review. Moreover we have the possibility to consult with the product owner, end-user and course responsible. 
-  ○	Meeting on Friday: Main goal is to learn from each other and discuss how the sprint i going. This is very important because we do not always work as a whole group (Mostly programming in pairs of two). 
-  ○	Meeting on monday: Main goal is to, other then discuss problems and learn from each other, to think of questions to ask the different actors available on wednesdays.
-  ○	Each one has responsibility for the given task divided by the group
-  ○	This implies that you either have to solve the task or ask for help if you cannot solve the problem yourself/ in the couple
-  ○	The programming part will be done in pairs of two in order to maximize our problem solving ability. However, this will not be a strict division but as guideline for the project. At our meetings the whole group will help each other if stuck at a problem.
-●	During each sprint all group members are responsible for reflecting continuously and moreover responsible for uploading an individual reflection on github. 
-●	Group Roles
-  ○	Project Developer
-  ○	Scrum master
-  ○	Team member - Developer
+* Gruppen har valt att ha sprintar från Onsdag till Onsdag varje vecka. 
+  Detta motiveras med det faktum att Onsdagar är det tillfälle då alla 
+  inblandade aktörer samlas och på så sätt får vi möjligheten att 
+  rådgöra med dessa. 
+
+* Varje sprint har tre huvudmöten som ligger på måndagar, onsdagar och fredagar. 
+  Exakta tider anpassas efter gruppmedlemmarnas övriga scheman. 
+    - På onsdagar avslutar vi föregående sprint samt påbörjar en ny. 
+      Detta innebär att vi dels har en sprint-review-meeting och 
+      dessutom en sprint-planning-meeting.  Onsdagar är dessutom 
+      ett bra tillfälle att rådgöra med produktägare, slutanvändare samt kursansvariga. 
+    - På fredagar är målet med mötet att lära sig från varandra genom att dela 
+      erfarenheter och lyfta problem som uppstått. Detta är även ett tillfälle 
+      att programmera i större grupp eftersom vi övrig tid använder oss av parprogrammering. 
+    - På måndagar så är fokus på mötet att diskutera eventuella frågor som har dykt upp. 
+      De frågor som inte kan besvaras av övriga gruppmedlemmar lyfter vi upp med berörda 
+      aktörer på onsdagarna. Utöver detta är måndagar även ett tillfälle för att 
+      programmera tillsammans och ta hjälp av varandra.
+
+* Gruppmedlemmarna har eget ansvar för att utföra de uppgifter som tilldelas. 
+  Med det sagt så får man självklart ta hjälp av andra, men ansvarar då för att 
+  det blir gjort. Uppgifter tilldelas parvis och därav tillämpas parprogrammering. 
+  Ytterligare en anledning till att programmeringen utförs parvis är för att 
+  optimera problemlösningsförmågan. Fördelen är då att man kan bolla idéer med 
+  varandra men samtidigt kunna arbete effektivt.  
+
+* Under sprintarna har varje gruppmedlem ansvar för att
+  kontinuerligt reflektera över hur det går, vad som kan bli bättre samt hur man
+  ska ta sig dit. Utöver detta ska en individuell reflektion lämnas in varje
+  vecka och detta samordnas av Git-ansvarig.
+
+* Roller inom gruppen
+    - Scrum master: Jonathan Boman
+        Rollen innefattar förutom att delta på scrum-of-scrums varje onsdag även 
+        att boka in möten och programmeringstillfällen. 
+    - Intern produktägare: Emil Kindgren
+        Rollen ska ha övergripande ansvar för kontakten med de inblandade aktörerna 
+        samt kunna representera produktägaren under våra interna möten.
+    - Trello-ansvarig: Johan Johansson
+        Rollen ska ha övergripande ansvar för trello och med detta ansvara för att 
+        rätt user-stories är på rätt plats. Utöver detta innefattar rollen ansvar 
+        för att ta skärmbild på vår trello-scoreboard två gånger varje sprint; 
+        i början samt slutet. 
+    - Git-ansvarig: Niklas Westerberg
+        Rollen ska ha övergripande ansvar för all aktivitet i git och med detta 
+        ansvara för att alla reflektioner laddas upp varje vecka. 
+
