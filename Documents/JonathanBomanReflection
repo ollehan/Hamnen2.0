@@ -1,3 +1,41 @@
+Week 7:
+what do I want to learn or understand better?
+  * Vi börjar närma oss slutet nu och fokus just nu för alla är att börja avsluta de redan påbörjade user-stories.
+    Det jag vill fokusera på sista veckan är att skapa en större förståelse för de punkterna som skall ingå i 
+    slutreflektionen. Även om vi varje vecka har svarat på de relevanta punkterna så börjar vi nu få förståelse
+    för saker som vi har tolkat fel, samt sånt som vi hade kunnat förtydliga.
+  * Utöver detta så vill jag inför sista sprinten som sker nästa vecka försöka att göra bättre estimeringar, sätta 
+    tydliga acceptance tests, ha tydliga success criteria och dokumentera hur jag skapar förståelse för de dynamiska
+    samt statiska delarna av applikationen. 
+
+How can I help someone else, or the entire team, to learn something new?
+  * Denna veckan precis som förra veckan har jag varit SCRUM-master och har då haft en viktig roll som förmedlare mellan mina
+    gruppmedlemmar samt de andra grupperna. Denna vecka har denna roll varit extra viktig eftersom vi förmodligen har haft
+    vår sista scrum-of-scrums. 
+  * Nästa vecka ska jag se till att vi avslutar det som har påbörjats och att vi försöker utnyttja/ta hänsyn till allt som
+    vi har lärt oss under kursens gång. Jag ska tidigt försöka boka in tider som alla kan närvara på för att på ett 
+    effektivt sätt använda den tiden som kvarstår. 
+
+What is my contribution towards the team’s application of scrum?
+  * Jag har fokuserat mycket på att försöka förstå hur vi ska, till vår bästa förmåga, besvara de punkter som 
+    ingår i team-reflection. Genom att göra detta har en hel del oklarheter löst sig. Förutom detta har jag
+    genom att boka in programmeringstillfällen sett till att vi följer vår sociala kontrakt. Dessutom har jag 
+    arbetet efter de agila "practices" som nu tydligare har dokumenterats i team-reflektion. 
+
+What is my contribution towards the team’s deliveries? That means that for the personal learning objective you 
+will each week write down what you have achieved in relation to last week's ambition (technologies, concepts and skills 
+learnt as well as how this was achieved), what you would like to achieve for the next week and how to make the change happen. 
+The first week of the course you describe the current situation by motivating a learning objective. It is perfectly fine to 
+change objective/s each week as long as you can motivate the change and you evaluate the outcome of the previous week 
+(e.g. describing the current situation).
+  * Denna veckan har jag levt upp till mycket av förra veckans ambitioner. Jag har varit med och levererat ny funktionalitet
+    som vi dessutom har försökt bug-testa via ett program som heter DeepScan. Testningen hade dock kunnat göras bättre och vi 
+    upplevde svårigheter i och med att vi inte lyckade filtrera så att vi endast testa de nya funktionaliteterna för buggar. 
+  * Nästa vecka vill jag arbeta väldigt strukturerat och applicera allt som jag har lärt mig under kursen. Detta är sista 
+    sprinten och jag vill arbeta så effektivt som jag bara kan för att produktägare/slutkund ska vara nöjda!
+  * Detta ska jag åstadkomma genom bra plannering samt att bli bättre på det som jag har beskrivit under första punkten
+    (What do i want to understand better...).
+
 Week 6:
 what do I want to learn or understand better?
   * Jag vill bli bättre på Java Script eftersom jag under denna veckna har stött på svårigheter i och med implementering av ny
