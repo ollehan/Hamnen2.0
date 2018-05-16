@@ -36,7 +36,8 @@ Social Contract:
         att boka in möten och programmeringstillfällen. 
     - Intern produktägare: Emil Kindgren
         Rollen ska ha övergripande ansvar för kontakten med de inblandade aktörerna 
-        samt kunna representera produktägaren under våra interna möten.
+        samt kunna representera produktägaren under våra interna möten. Ansvarar 
+        även för att mäta customer satisfaction utefter det utformade poängsystem. 
     - Trello-ansvarig: Johan Johansson
         Rollen ska ha övergripande ansvar för trello och med detta ansvara för att 
         rätt user-stories är på rätt plats. Utöver detta innefattar rollen ansvar 
@@ -45,4 +46,15 @@ Social Contract:
     - Git-ansvarig: Niklas Westerberg
         Rollen ska ha övergripande ansvar för all aktivitet i git och med detta 
         ansvara för att alla reflektioner laddas upp varje vecka. 
+        
+    - Kvalitetsansvarig: John Fransson
+        Rollen ska ha övergripande ansvar för att kontrollera kvaliteten i de 
+        user-stories som utformas. Detta innebär dels att testa koden för buggar 
+        via lämpligt program samt att sätta acceptance tests. 
+    - Övriga team-medlemmar
+        De övriga i teamet har ingen specifik tilldelad roll utan arbetar aktivt 
+        med utvecklingen av appen och verkställandet och skapandet av user-stories.
+        Varför inte alla har fått en roll är för att vi ej vill lägga till en roll 
+        utan ett tydligt syfte.
+
 
