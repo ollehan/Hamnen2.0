@@ -628,6 +628,188 @@ Dock kommer det såklart inte lösa alla problem utan vi måste samtidigt läsa 
 
 
 
+Team reflection week 7
+Team Reflection-Sprint 5
+The chosen scope of the application under development including priority of features and for whom you are creating value.
+Vart är vi? 
+Även denna vecka har vi valt att ha ett mindre scope och fokuserat på att leverera faktiskt värde till produktägare och slutanvändare. Scopet denna vecka har bestått av fyra Epics varav tre är relaterade till utformningen och den fjärde utgörs av skapandet av en konceptuell modell för framtida funktioner vilket har gjorts på efterfrågan av produktägaren. De tre övriga epics vi har jobbat med har varit: lägga till ytterligare information i Vesselinfo, sortera Berth-scrollview, standardfilter för timestamps. Dessa valdes för veckan då vi efter förhandling med produktägaren kom fram till att dessa var lämpliga utefter vår förmåga samt att de tillfrågade dessa funktioner. Vi har dock haft svårt med att utvärdera hur god kodkvalitet våra funktioner haft som vi levererat i denna sprint. Detta har främst berott på att vi ej har kunskap i kodtestning. Under projektets gång har vi också lärt oss att det är svårt att säkerställa kvalitet om vi förhastar oss.
+Vart vill vi?
+I slutet av nästa sprint vill vi säkerställa att de funktioner som gruppen levererar håller god kvalitet. Kvalitet i detta fall är i vilken grad som produktägaren/ slutanvändaren anser att våra funktioner lever upp till deras förväntningar samt hur väl vår producerade kod klarar att ta sig igenom relevanta kodtester.
+Angående den konceptuella modellen vill vi fortsätta utveckla potentiella värdeskapande funktioner i samråd med produktägaren. Detta vill vi göra för att kunna utöka våra leveranser av värde till våra stakeholders då detta är viktigt för att uppnå en god kundnöjdhet.
+Prioritet för den sista sprinten kommer vara att fokusera på kvaliteten på den kod som redan finns. Med det sagt så hoppas vi att detta ska vara av störst värde för slutanvändare samt produktägare. 
+Hur tar vi oss dit?
+Nästa sprint kommer vi att fokusera på att testa de funktioner vi tidigare har utvecklat  så att appen är vattentät till presentationen. 
+Genom att behålla ett mindre scope kan vi i större utsträckning säkerställa att det som levereras håller god kvalitet.
+För att säkerhetsställa att koden håller god kvalitet behöver vi utforma relevanta bug-tester samt ha tydliga acceptance tests. 
+
+Our social contract
+Var är vi?
+Denna veckan har vi skrivit om vårt sociala kontrakt. Vi har dels översatt den från engelska till svenska och dessutom lagt till nya roller. 
+Scrum master: Jonathan Boman
+Rollen innefattar förutom att delta på scrum-of-scrums varje onsdag även att boka in möten och programmeringstillfällen. 
+Intern produktägare: Emil Kindgren
+Rollen ska ha övergripande ansvar för kontakten med de inblandade aktörerna samt kunna representera produktägaren under våra interna möten. Ansvarar även för att mäta customer satisfaction utefter det utformade poängsystem. 
+Trello-ansvarig: Johan Johansson
+Rollen ska ha övergripande ansvar för trello och med detta ansvara för att rätt user-stories är på rätt plats. Utöver detta innefattar rollen ansvar för att ta skärmbild på vår trello-scoreboard två gånger varje sprint; i början samt slutet. 
+Git-ansvarig: Niklas Westerberg
+Rollen ska ha övergripande ansvar för all aktivitet i git och med detta ansvara för att alla reflektioner laddas upp varje vecka. 
+Kvalitetsansvarig: John Fransson
+Rollen ska ha övergripande ansvar för att kontrollera kvaliteten i de user-stories som utformas. Detta innebär dels att testa koden för buggar via lämpligt program samt att sätta acceptance tests. 
+Övriga teammedlemmar
+De övriga i teamet har ingen specifik tilldelad roll utan arbetar aktivt med utvecklingen av appen och verkställandet och skapandet av user-stories.
+Varför inte alla har fått en roll är för att vi ej vill lägga till en roll utan ett tydligt syfte
+Vart vill vi?
+Vi vill ha tydligt definierade roller som underlättar sprintarna genom bättre samordning samt olika övergripande ansvarsområden. 
+Hur tar vi oss dit?
+Under denna veckan har vi definierat nya roller och våra förhoppningar är att detta ska öka effektiviteten. Under denna sprinten insåg vi att det inte är optimalt att byta ut rollerna inför varje sprint eftersom arbetet är iterativt och därmed finns det flera fördelar att fortsätta med samma roller under hela projektets gång. Vi har därför nu bestämt en ansvarig för varje roll och hoppas att detta ska öka samordningen (Dessa syns ovan). 
+
+The success criteria for the team in terms of what you want to achieve with your application
+Vart är vi? 
+Våra success criteria har ändrats en del under kursens gång. Detta eftersom vi har haft vissa problem med att definiera lite vad som menas med detta och vi har även blandat ihop det med acceptance test. De kriterier vi nu sätter är:
+Att vi vill ha förståelse för hur agil utveckling fungerar samt få kunskap om hur vi i framtida projekt ska kunna tillämpa “Scrum-metodiken”.  
+Vi vill skapa användarvänlighet för slutanvänderen till appen, i vårt fall sjökaptenen. 
+Vi vill skapa värde för produktägaren.
+Vi vill att koden vi pushat har en god kvalitet. 
+Vart vill vi?
+Efter mycket om och men är vi nöjda med dessa success criteria och de får oss att gå mot rätt slutmål. Därför behöver vi inte ändra så mycket på dessa kriterier. Känner vi att vi behöver lägga till något eller ta bort något för att uppnå ett ännu bättre resultat kommer vi självklart göra det. 
+Hur tar vi oss dit?
+Vi fortsätter att jobba med dessa success criteria och tänker på de när vi utför vårt arbete. Vi kommer låta dessa vara våra ledord under den resterande tiden av projektet. Kommer vi på något mer kriterie kommer vi självklart revidera dessa kriterier. 
+
+Your acceptance tests, such as how they were performed and with who
+Vart är vi? 
+Denna sprint har vi för varje user-story fokuserat på att utforma relevanta och lämpliga acceptance tests. Tidigare veckor har vi haft det lite svårt atts sätta goda acceptance tests då vi inte haft funktioner som kunnat testas. Därför har vi denna sprint lagt stort fokus på att lära oss hur ett acceptance test bör utformas och vi har i samråd med den tekniska supporten från kursen tagit fram lämpliga tester för våra stories.
+Vart vill vi?
+ Vi vill säkerställa att det inte finns några luckor om våra tidigare acceptance tests har missat, exempelvis om det finns buggar i funktionerna
+Hur tar vi oss dit?
+Vi vill lägga till fler acceptanstest gällande specifikt kodkvalitet.
+ Dessa acceptanstest ska utformas så att de hjälper oss att nå dit vi vill?
+The design of your application (choice of APIs, architecture patterns etc)
+Vart är vi? 
+Så här har vi jobbat systematiskt (Architecture pattern)
+I brist på api, sparat lokalt
+Använder PortCDM som API
+I dagsläget använder vi oss utav React Native för att stödja största delen av vår applikation. Vi har även laddat ner vissa tillägg som hjälper oss att stödja vissa nya funktioner i appen. Exempel på detta är react-native-keyboardawarescrollview, react-native-prompt, react-native-keyboard-avoiding-view
+Idagsläget har vi ej använt oss utav några patterns när vi byggt upp vår kod. Detta har främst berott på att vi ej ansett att de funktioner som lagt till det behövt byggas utifrån ett speciellt mönster då det snarare bestått i att modifiera tidigare funktioner.
+Vi har identifierat ett behov av att kunna addera ytterligare information gällande fartygets last eller dylikt. Detta stöds inte i nuläget av backenden, vilket resulterar i att vi sparar denna info lokalt. En förhoppning är att appen/systemet i framtiden kan hantera även denna information, något som vår grupp inte har kunskap nog för att göra under detta projekt. 
+Vart vill vi?
+I nästa sprint vill vi utvärdera vilka API som vi använt som är relevanta och om vi kan ta bort vissa API för att göra koden mer koncis och ta bort överflödig API.
+Vi vill på ett tydligt sätt definiera vilka relevanta mönster det finns och om dessa bör användas i vår programvara
+Hur tar vi oss dit?
+Genom att gå igenom alla funktioner och se om de nya API vi har använt oss utav verkligen är nödvändiga och se om vi kan skriva om koden så att vi endast använder oss utav API för att definiera de relevanta mönster som finns kommer vi att gå igenom litteratur och hemsidor kring apputveckling för att se om det finns några tips gällande mönster. Sedan kommer vi applicera detta på våra funktioner och se om dessa stämmer överens med varandra. Om så är fallet kommer vi att utvärdera om det är lämpligt att skriva om koden enligt mönstret och om det i så fall finns något positivt utfall att förvänta av detta.
+
+The behavioural overview of your application (for instance through use cases, interaction diagrams or similar)
+Var är vi?
+Inför varje user-story har vi satt oss in i strukturen genom att använda oss av PortCDM appen för att lokalisera vart funktionen passar bäst in. Sedan har vi letat upp denna del av koden och härifrån har vi studerat relationerna genom att gå bakvägen kring vart information hämtas/lämnas. Genom detta arbetssätt har vi kontinuerligt byggt upp mer förståelse för hur appens funktioner hänger ihop. Detta har dock inte dokumenterats eller ritats upp, utan har skett muntligt eller via slack. Efter diskussion med Håkan har vi nu förstått att det kan vara önskvärt att dokumentera detta i framtiden eftersom det kan motverka dubbelarbete. 
+Vart vill vi?
+Vi vill tydligt dokumentera hur vi tar oss an de olika user-stories, dvs. hur vi skapar förståelse för den dynamiska funktionaliteten (kopplingen mellan de olika delarna av appen). 
+Hur tar vi oss dit?
+Vi fick tipset från Håkan att dokumentera detta under sprintens gång på en plats där alla kan komma åt dem. Detta säkerhetsställer att man kan dela information om den dynamiska funktionaliteten via gruppens medlemmar, på ett sätt som motverkar dubbelarbete. 
+The structural overview of your application (such as class diagrams, domain models or component diagrams)
+Var är vi?
+Inför varje user-story har vi satt oss in i strukturen genom att använda oss av PortCDM appen för att lokalisera vart funktionen passar bäst in. Sedan har vi letat upp denna del av koden och härifrån har vi studerat vilka klasser/funktioner som kan vara relevanta att använda sig av eller modifiera. Genom detta arbetssätt har vi kontinuerligt byggt upp mer förståelse för vad som redan finns i appens API. Detta har dock inte dokumenterats eller ritats upp, utan informationsspridningen har skett muntligt eller via slack. Efter diskussion med Håkan har vi nu förstått att det kan vara önskvärt att dokumentera detta i framtiden eftersom det kan motverka dubbelarbete. 
+Vart vill vi?
+Vi vill tydligt dokumentera hur vi tar oss an de olika user-stories, dvs. hur vi skapar förståelse för den statiska funktionaliteten (kopplingen mellan de olika delarna av appen). 
+Hur tar vi oss dit?
+Vi fick tipset från Håkan att dokumentera detta under sprintens gång på en plats där alla kan komma åt dem. Detta säkerhetsställer att man kan dela information om den statiska funktionaliteten via gruppens medlemmar, på ett sätt som motverkar dubbelarbete. 
+
+Your user stories in terms of using a standard pattern, acceptance criteria, task breakdown and effort estimation
+Bifogad bild nedan är hur user stories ser ut inför onsdagens möte. 
+
+Vart är vi? 
+Vi konstruerar user stories genom att i en mening försöka förklara funktionaliteten. Acceptanskriterierna utformar vi utefter potentiella fel en användare hade kunnat upptäcka. De skapas när vi har satt oss in i uppgiften för att kunna fånga upp eventuella fel. User stories delar vi upp i tasks med tydliga steg. Dessa steg är till för att ytterligare förtydliga kriterier och ge gruppen en tydlig bild över framsteg. Vår effort har vi problem med att uppskatta då vi ofta ger oss in i nya områden i appen som vi inte tidigare har jobbat i. Vi underskattar ofta vår velocity. Den här veckan har vi haft svårt att följa de user-stories som har legat i sprinten. Detta beror dels på att när vissa user-stories blev klara så löste vi andra user-stories, dvs. Vissa user-stories gick in i varandra. Detta motiveras av att vi tidigare haft sämre förståelse för hur applikationen fungerar samt att vårt scope varit alldeles för stort. Vi har med detta sagt valt att ta bort en del av de stories som ligger i sprinten och kommer istället fokusera på den kod som redan har färdigställts. 
+Vart vill vi?
+	Vi vill bli bättre på att uppskatta vår velocity och uppgifternas effort för att få en bättre överblick över veckans arbetsgång.
+Hur tar vi oss dit?
+	Vi kommer den kommande veckan jobba mer med att förfina existerande funktioner  och förbereda presentation. Vi kommer att vara betydligt mer noggranna gällande hur tidskrävande det är och då borde vi bättre matcha effort och velocity.
+
+
+The three KPIs you use for monitoring your progress
+Vi har tydligare definierat dessa KPI:er denna veckan och kommer från och med Sprint 5 att börja utvärdera utifrån dessa. 
+Customer satisfaction - Detta mäts genom att dela in kundnöjdheten i kategorier och sedan sätta en poäng på en skala mellan 0 och 10. Ju längre arbetet fortlöper desto högre hoppas vi dessa faktorers poäng blir och vi kan genom de mäta att framsteg är gjorda. Kategorierna som bedöms är: 
+Antal implementerade funktioner: 4
+Hur välarbetade och integrerade de implementerade funktionerna är: 8
+Funktionernas bidragande nytta för slutanvändaren: 9
+Funktionernas bidragande nytta för produktägaren: 8
+
+Velocity - Genom att mäta veckans genomförda velocitypoäng kan vi se hur duktiga och insatta vi blir i programmets kod och språket javascript. Här krävs dock att vi är duktiga på att sätta rimliga och jämförbara velocitypoäng genom hela arbetet. 
+Defects - För att se hur bra programmet fungerar kommer vi mäta de totala antalet defekter. Genom att göra detta kontinuerligt genom arbetets gång kan vi få en bra bild av hur kodningen går och hur väl de implementerade funktionerna fungerar. Denna kommer precis som övriga KPI:er uppdateras på slutmötet för sprinten på onsdagara och kan på så sätt jämföra med veckan innan. Defects kan då hjälpa till att förstå hur kodningen gått inför varje sprint-review. 
+
+
+Code quality using a tool such as Findbugs (1 point if your code includes issues concerning correctness or bad style, 2 points if you have dodgy or performance issues and 3 points if the code is fine), only asses the code you have written yourself
+Vart är vi? 
+Innan denna sprint har vi ej testat våra kod-kvalitet främst beroende på att vi ej haft nog med kod för att testa i programvara. Dock har vi tidigare “visuellt” försökt avgöra hur god kvalitet koden är samt genom att testa appen och försökt hitta möjliga buggar, vilket kopplas till acceptance critiera. Denna sprint har vi haft och skapat kod som kunnat testats och därför har vi i gruppen börjat använda oss utav “DeepScan” för att försöka hitta buggar i programmet. Dock visade detta program på många fel som ej var kopplade till våra modifikationer av appen varför det var svårt att avgöra vad som är kopplat till kvalitet på vår kod och vad som är orsakat av existerande kod. 
+Vart vill vi?
+I nästa sprint vill vi på ett strukturerat och tydligt sätt använda oss av en metodik för att testa våra adderade funktionaliteter. Vi vill lära oss hur man skiljer på den kod som skrivits av oss och det tidigare koden.
+När vi testat klart vår kod vill vi att den ska vara av hög kvalitet som lever upp till de krav som vår produktägare har satt för att våra leveranser ska skapa värde. Vi vill ej heller leverera kod som innehåller buggar.
+Hur tar vi oss dit?
+För att ta fram en metodik för att testa vår kod kommer vi att fortsätta att testa olika verktyg som kan användas för att testa vår kods kvalitet. Vi har en teammedlem som är ansvarig för att undersöka detta. Vi kommer även att tillfråga den tekniska hjälpen under Open Arena för att få hjälp hur vi bör testa vår kvalitet.
+Vi kommer även att utföra ett test på grundkoden för att på så sätt kunna jämföra de fel som uppstår då mot de felen som uppstår när vi testar vår adderade funktionalitet. 
+För att avgöra om våra funktioner är av god kvalitet kommer vi använda vår kodkvalitet som mått samt genom att visa detta för våra produktägare.
+
+
+The roles you have used within the team
+Vart är vi?
+Denna veckan har vi gjort ändringar i vilka roller vi använder inom gruppen (dessa är beskrivna i vårt social contract).
+Vart vill vi?
+Vi vill följa de roller som är angivna i sociala kontraktet. Mer generellt så vill vi ha tydligt definierade roller som underlättar sprintarna genom bättre samordning samt olika övergripande ansvarsområden.
+Hur tar vi oss dit?
+Vi ska försöka bli bättre på att följa det sociala kontraktet gällande roller och hoppas detta ska bli lättare när vi nu har definierat rollerna tydligare i det sociala kontraktet. 
+
+
+The agile practices you have used for the current sprint
+Vart är vi? 
+Vi har denna veckan försökt att lära oss mer om vilka olika agile practices som finns. Versionone (https://www.versionone.com/agile-101/agile-software-programming-best-practices/) beskriver “the core agile software programming practices” som:
+Test-first programming (Test-Driven Development),
+Rigorous, regular refactoring,
+Continuous integration,
+Simple design,
+Pair programming,
+Sharing the codebase between all or most programmers,
+A single coding standard to which all programmers adhere,
+A common “war-room” style work area.
+Vi har sedan tidigare arbetat enligt alla dessa principer, men har inte tydligt definierat vilka metoder som finns. Dessutom används t.ex. Inte endast par-programmering, då det i vissa sammanhang ansetts funnits fördelar med att vara fler för att få fler synpunkter och bättre samsyn. 
+Vart vill vi?
+Vi vill arbeta efter de agila principer som finns och fundera på hur och varför vi använder dom metoder som vi gör. 
+Hur tar vi oss dit?
+Vi ska tydligt utvärdera hur vi arbetar/förhåller oss till dessa olika agila “practices”. 
+
+The time you have spent on the course (so keep track of your hours so you can describe the current situation)
+Vart är vi?
+Denna veckan har vi haft ett mer jämnt och realistiskt arbetsflöde. Det har varit röda dagar under denna vecka och därför har vi bestämt oss för att lägga 15h per person. Då delar av gruppen under tidigare sprintar kunnat lägga mindre tid på grund av kandidatarbetet har de kompenserat med att lägga fler timmar denna vecka. 
+Vart vill vi?
+Vi vill kunna estimera och bedöma hur mycket tid som är realistiskt att lägga under varje sprint. Vi har lärt oss att faktorer som stress m.m. kan påverka denna bedömning och försöker därför att lägga lite extra tid inför varje sprintplanering. 
+Hur tar vi oss dit?
+Genom att tydligt planera och definiera uppgifter samt deras omfattning kan vi planera vår tid och därmed också minska stress till följd av att arbete tar längre tid än väntat. 
+
+
+The sprint review (either in terms of outcome of the current week's exercise or meeting the product owner)
+Vart är vi?
+Inför denna veckan satte vi som mål att vi vill skapa mer värde för parterna och att målet är att utveckla fler funktioner. Dessutom valde vi att minska scopet för att vi haft problem med att vi satt ett för stort scope tidigare jämför med vår velocity och därmed inte kunna leverera något konkret värde som vi kunnat visa upp för produktägaren. Denna sprint har vi lyckats bättre med att matcha vår uppskattade effort med vår velocity och vi har haft en bra output jämför med vad vi planerat. Alla de user-stories som vi lade in i sprint backlogen är avklarade och de har klarat sig igenom de acceptance critierias som vi har satt. 
+Vart vill vi?
+Då perioden snart börjar närma sig sitt slut har vi i samråd med produktägarna kommit överens om att de funktioner som vi i projektet lagt till och utvecklat är tillräckligt omfattande. Därför kommer inga fler user-stories/ funktioner att läggas till skåpet. Nästa sprint kommer därför främst att fokusera på att förbättra och analysera de redan skapade funktionerna. Vårt mål för nästa vecka är därför att kunna presentera och lämna över en produkt av hög kvalitet efter nästa sprint har avslutats där både produktägare och slutanvändare är nöjda. Vi vill även fortsätta det utökade samarbetet och bibehålla våra nya “roller” som vi har satt för att lösa de samordningsproblem som vi upplevt tidigare sprintar.
+Vi har även som mål att öva på presentationen då vi anser det viktigt att alla medlemmar i gruppen är väl förberedda när de kommer till presentationen då alla ska kunna förstå i huvuddrag hur vi löst de olika funktionerna och hur den tekniska lösningen fungerar. 
+Hur tar vi oss dit?
+För att säkerställa att våra funktioner/ programvara är av god kvalitet kommer vi att använda oss utav tidigare nämnda buggtestning samt att vi kommer att spendera en hel del tid med att testa själva appen. Om vi hittar  buggar skommer vi att försöka åtgärda detta genom att finslipa funktionerna.
+Vi kommer att säkerställa att alla kan presentationen genom att tillsammans öva på den och visa upp appen för att simulera produktpresentationen.
+Vi kommer även att gå genom ett scenario tillsammans så att vi känner oss förberedda inför det. 
+
+
+Best practices for using new tools and technologies (IDEs, version control, scrum boards etc.)
+Vart är vi? 
+Nytt denna veckan är användandet av Marvel och Photoshop. Dessa programvaror användes för att ta fram konceptuella modeller och kunna visa upp potentiella framtida funktioner för produktägaren. Sen tidigare använder vi Git, Trello, Slack, Android Studio. VS Code har använts som textredigerare som tidigare veckor.
+Vart vill vi?
+Vi vill lära oss att använda DeepScan för att kontrollera vår kodkvalitet.
+Hur tar vi oss dit?
+Vi kommer att kolla i Slack om någon annan grupp har använt det och kan ge tips på användning. Om så inte är fallet kommer vi att kolla upp tutorials och tips på nätet. Vi fick reda på att ursprungsappen aldrig har kodtestats med ett liknande verktyg, så en utmaning kommer bli att bara testa de delar av koden som vi själva har utvecklat. 
+
+
+Relation to literature and guest lectures (how do your reflections relate to what others have to say?
+Vart är vi? 
+Denna veckan har vi sökt i litteraturen för att hitta hur man utformar bra succsess criterias för ett scrum-projekt. Utöver detta har inget övrigt tillförts från litteratur eller föreläsningar mot tidigare veckor. Naturligt har det blivit så att denna punkt blev behandlad mer i början av projektet och sen mindre och mindre för vardera vecka. 
+Vart vill vi?
+Till nästa vecka kommer mycket fokus ligga på utvärdering. Därför vill vi använda litteratur och teorier behandlade i kursen samt sådant vi under kursens gång stött på genom egen litteratursökning. 
+Hur tar vi oss dit?
+Genom att gå igenom de teorier som kursen tar upp och relatera det till vad vi gjort varje vecka. Detta kan innebära att vi även upptäcker att vi använt koncept tidigt som vi inte hade koll på då. 
 
 
 
