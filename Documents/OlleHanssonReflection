@@ -203,3 +203,100 @@ Trots att ett av förra veckans mål gick ut på att påbörja uppstruktureringe
 detta, utan mitt fokus låg på programmeringsbiten. Vissa övriga medlemmar har påbörjat den biten istället.
 * Nästa vecka: Större fokus på att strukturera upp slutrapporten, men även klara av de sista user storiesen som är kopplade
 till den övergripande Epicen jag och john har jobbat på under de senaste sprinterna. 
+
+Week 8
+-- Detta är sista veckans individuella reflektion --
+-- Återigen så har vi gjort parprogrammering 100% av all programmeringstid. Då jag programmerar tillsammans med John 
+är all commit från hans profil från båda oss två --
+ 
+ What do I want to learn or understand better?
+ * Under veckornas gång fokuerade jag initialt en stor del av lärandet på att lära mig hur SCRUM-metodiken och
+ agil utveckling går till. Detta är något som skedde parallellt genom hela kursens gång, dels genom att jag kontinuerligt
+ googlade upp situationer och begrepp jag inte förstod, läste på i boken (Kniberg 2015), kollade igenom slides och även 
+ hade kontinuerliga dialoger med både Håkan och Jan-phillipe varje onsdag. Den bästa källan av information har enligt mig 
+ varit att ha dessa kontinuerliga dialoger under varje onsdag (sprint review) - man har kunnat ha teorier om hur man skulle
+ kunna arbeta, dubbelkolla detta med examinatorerna, pröva det en vecka och sedan ha en ny dialog där man diskuterar vad som
+ kan ha gjorts bättre. Exempel på detta är parprogrammeringen; vi fick idén om detta då det är så vi har arbetat under övriga
+ kurser och funnit att det fungerar väldigt bra. Vi var dock inte säkra utan förde en dialog med Håkan som tyckte att detta 
+ lät väldigt bra. Det passade extra bra med tanke på att utvecklingsmiljön inte fungerade på allas datorer, så parprogrammering
+ va nästan tvunget.
+ * Samtidigt som lärandefokus låg på att lära sig SCRUM och agila arbetsmetoder har lärandefokus självklart legat på andra 
+ aspekter också. En stor del av kursen har gått ut på att lära sig hur utvecklingsmiljön fungerar (personligen hade jag aldrig
+ ens hört talas om expo, android studio, hur man arbetar i terminalen osv.). På grund av bristande förkunskaper har detta varit
+ extremt tidskrävande, men även det området där jag med stor säkerhet kan säga att jag har lärt mig mest. När kursen startade
+ trodde jag aldrig att jag skulle kunna förstå någonting, men i dagsläget känner jag mig ganska självsäker när det kommer
+ till att beskriva hur utvecklingsmiljön fungerar och är uppbyggd.
+ * När det kommer till framtida projekt anser jag att en stor del av mitt initiala lärarfokus inte kommer behöver ligga lika
+ tungt på att lära sig SCRUM (då detta är kunskaper jag kommer kunna ta med mig) utan större fokus kommer kunna ligga på att
+ förstå utvecklingsmiljön och de verktyg man kan använda sig av. Självklart kommer min förståelse inom det agila arbetssättet
+ och SCRUM alltid behöva förfinas, men jag anser att jag till nästa projekt har ett stort försprång.
+ * Det främsta jag vill ta med mig från SCRUM till nästa projekt är att TIDIGT strukturera upp ett stabilt och genomtänkt
+ socialt kontrakt med tydligt definierade roller. I början av projektet såg vi det sociala kontraktet som något vi var tvugna
+ att göra och såg inte riktigt poängen med det. Under kursen har jag verkligen förstått hur mycket det kan hjälpa, främst 
+ genom att effektivisera gruppens arbete. Mindre onödiga diskusisoner och alla vet vad de ska göra eftersom detta står 
+ tydligt beskrivet i det sociala kontraktet.
+ * Sammanfattningsvis: 
+ - I dag har jag bra kunskaper om hur den nuvarande utvecklingsmiljön och SCRUM fungerar. Jag har lärt mig
+ extremt mycket inom båda dessa områden som jag verkligen kan ta med mig.
+ - Nästa gång skulle jag vilja fortsätta bygga på mina kunskaper om SCRUM och tillämpa detta arbetstänk tidigare i en potentiell
+ grupp. Beroende på projektets typ skulle jag även tidigare vilja lära mig om hur man bör tillämpa tillgängliga verktyg. 
+ - Jag vill komma dit genom att dels upprätta ett socialt kontrakt tidigt (beskrivet mer i detalj ovan). Jag kommer även försöka
+ utnyttja alla tillgängligare resurser till större grad. I det nuvarande projektet utnyttjade vi inte det faktum att andra 
+ grupper kan ha varit i exakt samma situation som oss och att de har kunskaper om hur vissa problem skall lösas. Nästa gång
+ kommer jag tidigt söka hjälp hos andra när jag stöter på problemsituationer. Genom detta hoppas jag att jag tidigare lär mig
+ mer om de tillgängliga verktygen och utvecklingsmiljön.
+ 
+ How can I help someone else, or the entire team, to learn something new?
+  * Genom veckornas gång har jag och John lyckats få bra kunskaper kring hur utvecklingsmiljön har fungerat och har kunnat
+  hjälpa andra gruppmedlemmar med detta när de har fått problem. Vi har i princip axlat en inofficiell roll där vi tar på oss
+  lite mer av de tekniska aspektern i gruppen. På grund av detta har vi mest hjälpt de andra gruppmedlemmarna att lära sig 
+  nya saker om just utvecklingsmiljön.
+  * Beroende på hur nästa projekt ser ut kommer jag ha nya möjligheter att hjälpa andra att lära sig nya saker. Hamnar jag i
+  en ny grupp utan förkunskaper om SCRUM kommer jag exempelvis ha mycket att ta med mig kring hur vi bör lägga upp vårt arbete
+  för att nå hög effektivitet. Är det ett projekt där utvecklingsmiljön är lik den nuvarande anser jag mig kunna ha ett litet 
+  försprång och kommer kunna förmedla kunskap inom det området. 
+  Det kommer även finnas projekt och situationer där jag har absolut minst förkunskaper kring samtliga områden. 
+  Då får jag försöka lära mig så mycket som möjligt och föröska bidra med ett nytt tänk på potentiella problemsituationer. 
+  Jag tror något värdefullt jag alltid kommer kunna bidra är mitt sätt att se på hur värde skapas för slutkund - ex. genom 
+  att lära sig hur utvecklingsmiljön fungerar skapar vi indirekt värde för slutkunden eftersom vi då kommer skapa oss 
+  kunskaper kring hur vi direkt kan införa ny funktionalitet som gynnar slutkunden.
+  * Genom att gå in i ett nytt projekt med ett öppet sinne kommer jag kunna lokalisera de områden där jag kanske har större 
+  förkunskaper i jämförelse med de andra medlemmarna, dessa kunskaper kommer jag senare kunna sprida vidare till andra 
+  medlemmar. Har jag exempelvis bättre insikt i hur utvecklingsmiljön fungerar kommer jag försöka att pedagogiskt demonstrera
+  och förklara detta för andra medlemmar då det finns ett värde i att samtliga förstår hur projektet är uppbyggt.
+
+What is my contribution towards the team's application of scrum?
+* Mina främsta bidrag har genomgående varit att jag dels försökt anamma scrum i största mån möjligt samt även konkret klarat
+av user stories som skapar värde för slutkunden. Exempel på det förstnämnda är att jag ofta försöker stå fast vid att vi ska
+slutföra de user stories vi har planerat för nästkommande sprint istället för att fokusera på övriga aspekter som inte står
+med i sprint backlogen. Det har ofta uppstått scenarion där medlemmar har velat införa annan funktionalitet än det som finns
+just i sprint backlogen då det har kännts rätt för stunden. Genom att göra mitt bästa för att fokus ska ligga på just det som
+istället finns i sprint backlogen har gruppen lättare kunnat genomföra korrekta sprint reviews där vi har sett var fel kan ha
+legat, och planerat nästa sprint bättre. Frångår man sprint-planeringen kontinuerligt kommer det vara mycket svårare att synliggöra
+eventuella problem och gruppen kommer inte utvecklas. Detta har varit en av mina starkaste sidor när det kommer till SCRUM.
+* Nästa gång vill jag fortsätta med ovannämnt, men även bidra tidigt med att skapa ett socialt kontrakt med tydliga roller.
+Som nämnt under fråga 1 såg jag initialt inte fördelarna med ett stabilt och hållbart socialt kontrakt, med tydligt utstakade
+roller. Allt eftersom kursen har fortgått har detta blivit tydligare för mig och jag inser hur mycket det faktiskt kan göra
+för effektiviteten och gruppmiljön i helhet.
+* Detta skall genomföras genom att jag skall försöka lyfta en mer genomtänkt och djupgående diskussion under uppstartsmötena
+med en potentiellt ny grupp, där vi diskuterar vad vi ska göra i många olika scenarion. Exempelvis fall man ska ha straff när
+någon kommer sent (något jag personligen inte tycker är så bra), fall man ska ha ett rigidt mötesschema eller ett flexbielt, 
+vilka roller man ska ha osv.
+Det är dock viktigt att notera att det sociala kontraktet inte är satt i sten utan att det finns möjligheter att ändra det
+om något inte fungerar.
+
+What is my contribution towards the team’s deliveries? 
+* Jag har klarat av många konkreta user stories och tillsammans med John bidragit med den mesta konkreta programmeringsfunktionaliteten.
+Jag har även, som nämndes tidigare, försökt anamma SCRUM i största mån genom att exempelvis följa sprint backlogen väldigt strikt.
+Detta med syfte att man lättare skall kunna utvärdera efter en genomförd sprint och synliggöra problem. Jag har även varit
+väldigt aktiv på diskussioner med olika aktörer (examinatorerna Håkan och JP, IT-supporten Pontus, produktägare samt slutanvändare).
+Mer konkret så har jag (tillsammans via parprogrammering med John) klarat av EPIC 2 och EPIC 8.
+* Nästa gång vill jag gå in med ett öppet sinne och försöka bidra på de områden där jag har mest att komma med. Är det en 
+liknande gruppkonstellation kommer jag kunna bidra mycket med den konkreta programmeringsbiten, men är det en grupp där många
+har mycket erfarenhet när det kommer till arbete med de tillgängliga verktygen kommer jag istället försöka ta en roll som bidrar
+på övriga områden. Exempelvis genom att agera lite som SCRUM-master och försöka styra gruppen i rätt riktning.
+* Som nämnt ovan kommer detta uppnås genom att jag har ett brett och öppet sinne när jag går in i nästa projekt, och försöker
+hålla en tidig dialog med gruppmedlemmarna för att identifiera allas styrkor och svagheter. På så sätt kommer jag kunna hitta
+en roll som passar mig bra. Jag kommer även, som nämnt flertal gånger tidigare, försöka få gruppen att upprätthålla
+ett socialt kontrakt för att göra detta tydligare. Jag kommer även självklart fortsätta tillämpa de SCRUM-metoder jag lärt mig
+under kursens gång, såsom få gruppen att ha kontinuerliga möten, genomföra sprint-reviews osv.
