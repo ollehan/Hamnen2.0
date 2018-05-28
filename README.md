@@ -20,11 +20,13 @@ Rebecca Hjertonsson
 Johan Johansson
 
 -------------------------------------------------------------------------------------------------------------------------
-Vi har ett separat repo där all vår kod är lokaliserad. Den är forkad från portablecdm repot.
+Vi har ett separat repo där all vår kod är lokaliserad. Den är forkad från portablecdm repot. Ni finner den här: https://github.com/frajohn/portablecdm
 
 I mappen dokument finner ni alla individuella reflektioner. Det är ett dokument för varje person som har fyllts på
 varje vecka när den individuella reflektionen är genomförd. Även ett dokument kallat team reflection finns där som även 
 detta har fyllts på varje vecka allt eftersom vi har reflekterat. En rapport-pdf kan lokaliseras som innehåller den sista sprint-reflektionen. 
+
+I repot ligger två social contract varav ena är en äldsta verision som är uppladdad som fil. Den andra är en textfil och är det senaste upptdaterade sociala contract. 
 
 Vi har flitigt använt Trello under kursens gång och tanken var att vi skulle ta skärmpdumpar som skulle bifogas vid varje
 veckoreflektion. Då vi initialt skrev våra reflektioner i Google docs bifogades bilderna där, men när vi la över relfektionen 
