@@ -1,4 +1,4 @@
-# Hamnen 2.0
+# Hamnen2.0
 Project group DAT255 - Software Engineering 2018
 
 Group members: 
