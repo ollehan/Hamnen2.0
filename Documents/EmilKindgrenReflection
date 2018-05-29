@@ -123,7 +123,7 @@ Jag har hjälpt till att strukturera om våra user stories rejält och hur vi sk
 Denna vecka har jag fått git pch push/pull att fungera vilket gjort hela programmeringsmiljön redo. Jag har även satt mig in i koden en hel del genom att jobba med user stories och därigenom "tvingats" försöka var kreativ och hittat lösningar. Här känner jag jag behöver mer tid för att helt kunna lösa storien. 
 
 
-Individual  week 5:
+Individual  week 6:
 
  - What do I want to learn or understand better?
 Den här veckan har jag tyvärr inte kunnat bidra så mycket till kodandet. Jag satt ihop med rebecca till en början av sprinten vilket gjorde att vi kom en bit framåt i hur appen fungerar men tyvärr inte i närheten av tillräckligt bra mot vad jag vill, här måste bättring ske i slutet av nästa sprint då jag har avsatt mycket tid för detta arbete.
@@ -143,7 +143,7 @@ Se ovan.
  - evaluate the outcome of the previous week (e.g. describing the current situation).
 Precis som ovan så har min delivery denna veckan varit i huvudsak kring allmänna uppgifter som team reflection osv. Till nästa vecka måste jag bli mer insatt i sprinten, när jag kommer hem från resan måste jag fråga folk vad som gjorts, vad som behövs göras till onsdagen osv för att på så sätt ändå skapa så mycket värde som möjligt från min sida. 
 
-Individual  week 6:
+Individual  week 7:
 
  - What do I want to learn or understand better?
 Denna veckan känner jag att jag kunnat bidra bra med värde i koden vilket resulterar till slutanävndaren och produktägaren. Till nästa vecka däremot kommer mycket fokus ligga på att presentera och utvärdera arbetet för att underlätta den slutgiltliga rapporten, inom detta område vill jag utvecklas. Jag tror också att genom det kommer jag få många insikter av vad vi har gjort bra och dåligt under porjektets gång.
@@ -162,3 +162,55 @@ Jag har fått en roll som intern produktägare där jag alltid ska se till att v
  - It is perfectly fine to change objective/s each week as long as you can motivate the change and you 
  - evaluate the outcome of the previous week (e.g. describing the current situation).
 Denna vecka har jag suttit med parvis programmering med John och skapat värde i kodandet. Har även hjälpt till lite granna med konceptuella modeller och sedan, precis som de flesta andra gjort en del på de gemensamma uppfigerna som reflektionen och utvärderingen. Vi har även haft fokus denna vecka på att lära oss mer inför sista presentationen och rapporten.
+
+
+Individual Week 8 (Final):
+
+ - What do I want to learn or understand better?
+      Under porjektets gång har vi jobbat mycket på att efterleva SCRUM-metodiken i vårt arbetssätt. Till en början var detta en utmaning då kunskapen och gruppens upplevda syfte för metodiken var låg. 
+      Själva konceptet att jobba 8 personer i grupp var relativt nytt för mig vilket gjorde att man till en början trodde att samma arbetssätt jag brukar använda i mindre grupper även skulle fungera helt okej. 
+      Det jag dock märkte under projektetst gång var just att SCRUM-metodiken faktiskt fyller ett väldigt stort syfte då de förhindrar dubbelarbete och säkerställer att vi som grupp tänker igenom vad vi ska
+      och vill ha gjort noga för att på det sättet säkerställa att hela gruppen drar åt samma håll och får till ett effektivt arbete. Fördelarna med SCRUM har bara växt fram under hela projektet och under den 
+      sista sprinten var det en väldigt skön känsla där jag verkligen kände att hela gruppen lyckades leverera värde för alla inblandade aktörer från olika håll vilket gjort att jag nu känner mig mer motiverad 
+      än någonsin att fortsätta utvecklas inom detta arbetssätt. Så även om jag känner jag lärt mig mycket när det kommer till att dela upp större arbetsuppgifter i isolerade mindre beståndsdelar, vikten av sociala 
+      kontrakt och tydlig arbetsfördelning så känner jag att det finns mer att lära sig inom området. Främst känner jag att jag skulle vilja utvecklas när det kommer till att få till metodiken tidigare i arbeten och 
+      se till att alla medlemmar förstår fördelarna med den då det är först då man på riktigt kan få goda resultat.
+
+      Som team skulle jag också vilja få möjligheten i att jobba i lite mer tvärfunktionell grupp där våra kunskaper ligger mer spridda. Detta tror jag är en stor fördel i scrum-metodiken då den, om utförd rätt,
+      lyfter allas styrkor och ser till att alla gör något inom de område de arbetar bäst inom. 
+
+      Vi hade mycket problem till en början med den tekniska lösningen och den miljö vi ville använda för att skapa värde för slutanvändare och produktägare. Det här gjorde att vi kom igång relativt sent med detta 
+      och här känner jag därför att jag är långt ifrån fulllärd. Jag har lärt mig mycket kring hur de olika programvarorna samverkar för att man ska få till en bra programmerinsmiljö och grunderna i Javascript kontra java. 
+      Här finns dock mycket utvecklingspotential och här vill jag gärna bygga vidare på en mer ingående förståelse för alla delar.
+      
+      Något som kommit fram i slutet av projeket var att det hade varit smidigt att från början skissa upp diagram på hur applikationens delar hänger ihop och vilka klasser som finns och gör vad. Detta är något vi 
+      självklart jobbat men endast över enklare kommunikation mellan gruppmedlemmarna. Här ser jag verkligen värde i att jobba mer strukturerat och bygga upp en bättre gemensam förståelse. Detta förhindrar dubbelarbete 
+      och underlättar utformningen av fristående user stories. Min kunskap inom detta är bristfällig och något jag verkligen vill jobba med i nästkommande projekt.
+      
+
+ - How can I help someone else, or the entire team, to learn something new?
+      Under projektet anser jag att jag varit med lite överallt och tycker jag har en god insyn i många delar av projektet. Vissa har haft mer ansvar när det kommer till programmerandet, vissa mer när det kommer till "mjuka" värden. 
+      Jag tycker därför jag har en bra överblickande vy för att jag varit lite delaktig i alla delar. Det här tror jag har hjälp till mycket i den sista reflektionen tillexemepel där jag kunnat bidra lite överallt. 
+
+ - What is my contribution towards the team’s application of scrum?
+      Min roll i gruppen har varit som intern produktägare. Genom den har jag sett till så att vi hela tiden följer den riktning vi förhandlat fram vid veckomötena på onsdagar med produktägarna. Rollen i sig har inte haft n
+      ågra speciella arbetsuppgfiter utan mer fungerat som en påminelse att allt ska bygga värde. Jag har även genom min roll sett till att acceptance test finns på varde user storie som behandlar den funktion som produktägarna velat ha. 
+      
+      Generellt sätt har jag sett till att göra de uppgifter jag åtagit mig i tid. Däremot så har gruppen haft en del problem med uppskattningen av effort för user storiesarna. Detta har gjort att vi många sprints, speciellt i början, 
+      inte lyckades leverera vad vi åtagit oss. Här tycker jag dock att jag varit bra på att höra av mig i tid till gruppen med att min delivery fastnat och att jag stött på problem som inte hunnits lösas. Eftersom många stött på detta 
+      problem har vi försökt hjälpa varandra i den mån vi byggt förståelse för applikationen och genom de försökt effektivisera problemslöningen. Här har dock ett ER-diagram saknats och något som vi borde byggt från början, läs första frågan.
+      
+
+ - What is my contribution towards the team’s deliveries? 
+ - That means that for the personal learning objective you will each week write down what you have achieved in 
+ - relation to last week's ambition (technologies, concepts and  skills learnt as well as how this was achieved),
+ - what you would like to achieve for the next week and how to make the change happen. 
+ - The first week of the course you describe the current situation by motivating a learning objective. 
+ - It is perfectly fine to change objective/s each week as long as you can motivate the change and you 
+ - evaluate the outcome of the previous week (e.g. describing the current situation).
+      Under projektet har jag bidragit med kod tillsammans med Johan på vissa delar och John på andra delar. När vi, efter prat med produktägare, kom fram till att vi skulle ta fram konceptuella modeller för de idéer vi byggt upp under porjektet 
+      men inte kommer hinna var jag och Johan de som ansvarade för att ta fram dessa. Jag anser därför att jag varit med och skapat värde för produktägare och slutanvändare.
+      
+      När det kommer till projektets inre värdeskapande processer tycker jag att jag har bidragit och hjälpt till med förståelse för kodens uppbyggnad då jag klickat runt en hel del för att bygga en egen förståelse som jag delat med mig av när någon behövt.
+      Jag har också, precis som alla medlemmar, varit delaktig i reflektionerna varje vecka och försökt utvärdera vad som gått bra samt kommit med idéer om vad som kan ändras på osv. 
+
