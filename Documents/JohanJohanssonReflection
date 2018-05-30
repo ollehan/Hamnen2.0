@@ -1,3 +1,7 @@
+README: Jag har lagt upp dokumentet så att jag har skrivit varje fråga för sig, vecka för vecka. 
+Varje vecka är skild med en tom rad. Jag pratade med Burden om jag de första veckorna dels skrev på engelska och hade råkad forka vårt repo och då skrev i mitt eget. 
+Därför är de första veckorna inkopierade rätt från det gamla dokumentet i mitt forkade repo.
+
 what do I want to learn or understand better?
 * I want to learn how to efficiently use Scrum to speed up software development. I would like to be able to learn it not just for this course but also to remeber it and use it in the future.
   
@@ -9,9 +13,15 @@ what do I want to learn or understand better?
  
  Den gångna veckan försvann mycekt tid pga röda dagar och kandidatarbete. det gjorde att förra veckans mål ligger kvar även nästa vecka. 
  
- Denna vecka har vi fastnat mycket på problemen med programmeringen, vilket genomgående i projektet har varit en stor flaskhals. Vi har nu skiftat fokus mer mot att visuellt visa kunden olika intressanta funktioner för framtida funktionalitet. i.o.m. detta vill jag bli lära mig göra snygga mockup-bilder för att kunna demoa på ett bra sätt. Min förhoppning är dock fortfarande att bidra med kod i projektet, men jag vet inte längre om det kommer uppnås.
+ Denna vecka har vi fastnat mycket på problemen med programmeringen, vilket genomgående i projektet har varit en stor flaskhals. Vi har nu skiftat fokus mer mot att visuellt visa kunden olika intressanta funktioner för framtida funktionalitet. 
+ i.o.m. detta vill jag bli lära mig göra snygga mockup-bilder för att kunna demoa på ett bra sätt. Min förhoppning är dock fortfarande att bidra med kod i projektet, men jag vet inte längre om det kommer uppnås.
 
- Jag har denna vecka arbetat vidare med mockup-bilder för att visa på framtida funktioner. Det som fortfarande är kvar som jag vill lära mig är kodningen. Jag kommer att göra detta genom att utveckla tillsammans med någon annan så att den andra kan lära mig det den kan, och på så sätt kan jag bidra med kod till projektet.
+ Jag har denna vecka arbetat vidare med mockup-bilder för att visa på framtida funktioner. Det som fortfarande är kvar som jag vill lära mig är kodningen. 
+ Jag kommer att göra detta genom att utveckla tillsammans med någon annan så att den andra kan lära mig det den kan, och på så sätt kan jag bidra med kod till projektet.
+ 
+ Sista veckan fortsatte jag tillsammans med Emil Kindgren med mockup-bilderna utefter produktägarens funktioner. Vi vidaretvecklade även en fukntion i appen. Detta innebär att jag äntligen bidrog med kod (genom Emils commit då) och lärde mig det. 
+ Jag vill dock i framtida projekt bli ännu bättre på det och bidra ännu mer. Jag tänker att ett bra sätt att snabbt ta sig dit är att ta hjälp av mer erfarana utvecklare i början för att komma över den stora tekniska tröskel som jag har upplevt detta projekt.
+ 
 
 how can I help someone else, or the entire team, to learn something new?
 * When the project progresses I will try to have an open mindset to be able to share my knowledge. 
@@ -27,7 +37,14 @@ how can I help someone else, or the entire team, to learn something new?
 
   Jag har lite erfarenhet av mockup-appar genom att jag har jobbat för ett student-IT-konsultföretag. Därför vill jag använda det för att hitta en bra programvara för att framställa dessa och visa mina gruppmedlemmar hur man gör det bra.
   
-Jag stötte på intressanta insikter gällande appen när jag gjorde mockup-bilder. Saker som var en knapp borde vara i en funktion vi utvecklar, eftersom jag enkelt kunna photoshoppa in en där när jag testade. Då förmedlade jag detta idag och vi ska testa hur det ser ut.
+  Jag stötte på intressanta insikter gällande appen när jag gjorde mockup-bilder. Saker som var en knapp borde vara i en funktion vi utvecklar, eftersom jag enkelt kunna photoshoppa in en där när jag testade. Då förmedlade jag detta idag och vi ska testa hur det ser ut.
+  
+  Sista veckan hjälpte jag och Emil varandra i våra två uppgifter. Jag hjälpte honom att sätta sig in i mockup-bilderna som jag hade gjort för att vi tillsammans skulle jobba vidare med dem. Det gick bra. 
+  Han hjälpte även mig att visa vad han redan hade utvecklat på funktionen om "additional information" för att jag skulle kunna hjälpa honom komma vidare. 
+  Visuell demonstration jobbade vi med i början för att vi skulle sätta in oss i varandras arbeten. Jag tycker att det funkade bra och i framtida projekt vill jag jobba vidare på detta genom parprogrammering/-utveckling då jag tycker att det är ett effektivt sätt att sprida kunskap.
+  Jag tycker även att man som grupp kan bli bättre att dela information om man oftare diskuterar vad man har lärt sig under veckan. Detta och eventuella förkunskaper hade man kunnat samla i någon form av informationsbank.
+  Då hade lättare stått klart för medlemmarna vad det finns för information att tillgå inom gruppen för snabbare upplärning.
+  
 what is my contribution towards the team’s application of scrum?
 * This week has been mostly about trying to learn the basics of scrum, and we've not met with the group that much to plan the project.
   As I am very excited for this course i've tried to share the excitement with the group.
@@ -40,9 +57,19 @@ what is my contribution towards the team’s application of scrum?
   
   Som sagt så försvann denna vecka fort, men idag på mötet på Lindholmen bidrog jag till att rangordna våra tasks till sprinten genom dialog intern och med produktägare.
   
-  Jag tycker att jag fortfarande är bra på att se till att vi konstruerar user stories och tasks som på ett bra sätt representerar kundens önskemål. Jag vill bli bättre på att diskutera mer internt om råd och hjälp med problem, istället för att leta reda på svaren själv på t.ex. google. Tror att vi kan spara mycket tid då.
+  Jag tycker att jag fortfarande är bra på att se till att vi konstruerar user stories och tasks som på ett bra sätt representerar kundens önskemål. 
+  Jag vill bli bättre på att diskutera mer internt om råd och hjälp med problem, istället för att leta reda på svaren själv på t.ex. google. Tror att vi kan spara mycket tid då.
   
-  Jag har varit trello-master denna vecka och jobbar därför med att vår backlog är uppdaterad och att det finns acceptance criteria för alla tasks. Jag ser till att tasksen är uppdelade bland medlemmarna också. Jag har fortfarande kvar ett tänk fokuserat mot att allt vi gör ska tillföra värde, främst i form av att diskutera tolkningarna av user stories så att det vi har utvecklat faktiskt är vad kunden vill ha. Detta går lite in i rollen som intern produktägare, men även om det inte är mitt ansvar så tänker jag mycket på det.
+  Jag har varit trello-master denna vecka och jobbar därför med att vår backlog är uppdaterad och att det finns acceptance criteria för alla tasks. 
+  Jag ser till att tasksen är uppdelade bland medlemmarna också. Jag har fortfarande kvar ett tänk fokuserat mot att allt vi gör ska tillföra värde, främst i form av att diskutera tolkningarna av user stories så att det vi har utvecklat faktiskt är vad kunden vill ha. 
+  Detta går lite in i rollen som intern produktägare, men även om det inte är mitt ansvar så tänker jag mycket på det.
+  
+  Jag har utöver att, som varje vecka och som varje medlem, vara delaktig i våra möten, varit trello-master även denna sista vecka.
+  Detta har hjälpt gruppen att ha koll på vad alla andra gör och vilket stadie vi ligger i i förhållande till sprinten. Jag har trivts i rollen som trello-master, men framför allt har jag trivts i att ha en tydlig roll i projektet. 
+  Det hjälper mig och de andra att dela upp ansvaret och få mer gjort.
+  Därför vill jag i framtida projekt direkt ha en tydlig roll. Jag hade gärna i ett större projekt varit ansvarig för en del av utvecklingen i form av funktioner. 
+  Detta för att att som tidigare nämnt hjälpa mig att programmera mer vilket jag tycker är kul.
+  Om vi som grupp är bättre på att få en ordentlig överblick över projektet i ett tidigt skede så tror jag att jag snabbare kan bidra mer till det agila arbetssättet.
   
 what is my contribution towards the team’s deliveries? 
 That means that for the personal learning objective you 
@@ -63,12 +90,25 @@ My objective for next week is to catch up with the rest of the group and work on
 During the Open Arena session i caught up with the group and we talked alot about the project. I've started to understand how React native work and how Android Studio and Expo "talk", wich I think will be helpful when we start to code.
 For next week I want to improve my skills in JavaScript and get the environment fully running. I also want to commit lines of code to the project. 
 
-Denna sprint hade jag feber och var hemma några dagar vilket gjorde att jag inte har kunnat bidra så mycket. Vi bildade kodpar eller kodgrupper som skulle jobba med olika user stories och där ingick jag för att diskutera var vi skulle börja leta/jobba i appens kod. Jag har med hjälp av tutorials bättre förstått git. Tyvärr bidrog jag inte med någon kod då vi inte fick igång utvecklarmijön fullt under sprinten, samtiidigt som kodgrupper gör att jag inte säkert kommer att faktiskt koda. Mitt nya mål för nästa vecka är att vara starkt bidragande i min kodgrupp för att färdigställa vår User Story.
+Denna sprint hade jag feber och var hemma några dagar vilket gjorde att jag inte har kunnat bidra så mycket. Vi bildade kodpar eller kodgrupper som skulle jobba med olika user stories och där ingick jag för att diskutera var vi skulle börja leta/jobba i appens kod. 
+Jag har med hjälp av tutorials bättre förstått git. Tyvärr bidrog jag inte med någon kod då vi inte fick igång utvecklarmijön fullt under sprinten, samtiidigt som kodgrupper gör att jag inte säkert kommer att faktiskt koda. 
+Mitt nya mål för nästa vecka är att vara starkt bidragande i min kodgrupp för att färdigställa vår User Story.
 
 Vi är i kodpar fortfarande men har reviderat våra user stories. Därför är mitt mål samma, att bidra på ett bra sätt till vår user story. Jag vill helst bidra med kod eftersom jag tycker att det är väldigt roligt. Jag borde nå dit genom att
 aktivt ta rollen som "kodare" och sätta mig in i uppgiftens förutsättningar. Med det menar jag att genom att jag förstår hur koden ser ut idag kan jag bättre koppla det till appens grafik och fukntioner för att veta vad vi ska fokusera på i koden.
 
-Jag har nu tagit på mig att utvärdera och ta fram ett bra verktyg så att vi kan ta fram bra mockup-appar/bilder för att demoa för kund. Jag vill vara starkt bidragande i detta så att vi effektivt kan skapa snygga och bra visuella lösningar för kund. Detta ska jag lösa genom att sätta mig in i de olika programmen som finns och välja ut det bästa. 
-Angående målet från förra veckan är det fortfarande min förhoppning att hitta en funktion jag kan bidra med genom kod till appen. På grund av de tekniska svårigheterna har jag inte kunnat göra det ännu, och mitt fokus har nu skiftat lite mot mockup-bilderna, men jag har fortfarande förhoppningen om att jag ska kunna koda in något i appen!
+Jag har nu tagit på mig att utvärdera och ta fram ett bra verktyg så att vi kan ta fram bra mockup-appar/bilder för att demoa för kund. Jag vill vara starkt bidragande i detta så att vi effektivt kan skapa snygga och bra visuella lösningar för kund. 
+Detta ska jag lösa genom att sätta mig in i de olika programmen som finns och välja ut det bästa. 
+Angående målet från förra veckan är det fortfarande min förhoppning att hitta en funktion jag kan bidra med genom kod till appen. 
+På grund av de tekniska svårigheterna har jag inte kunnat göra det ännu, och mitt fokus har nu skiftat lite mot mockup-bilderna, men jag har fortfarande förhoppningen om att jag ska kunna koda in något i appen!
 
-Jag levererade en mockup, eller en så kallad wire-frame, där man kan klicka sig igenom photoshoppade bilder för att visa upp ett flöde genom appen i en tänkt funktion. Detta togs emot väl av produktägaren och jag kommer att jobba vidare på den utefter deras önskemål. Jag kommer också denna kommande vecka jobba i par/grupp med en faktiska funktioner för att bidra med kod på något sätt.
+Jag levererade en mockup, eller en så kallad wire-frame, där man kan klicka sig igenom photoshoppade bilder för att visa upp ett flöde genom appen i en tänkt funktion. 
+Detta togs emot väl av produktägaren och jag kommer att jobba vidare på den utefter deras önskemål. Jag kommer också denna kommande vecka jobba i par/grupp med en faktiska funktioner för att bidra med kod på något sätt.
+
+Jag jobbade den sista veckan med två saker, båda tillsammans med Emil Kindgren. Vi vidareutvecklade dels de mockup-bilder som jag föregående vecka tog fram för en tänkt funktion, My Trip. 
+Denna skulle ge kaptenen tydlig överblick över hela resan, inkluderande flera olika hamnar.
+Den togs emot väl av produktägare, slutkund och andra intressenter på demon 23/5. Den andra saken vi jobbade på var en vidareutveckling av en funktion för att kunna lägga till additional information för ett fartyg. 
+Vi jobbade på att göra så att textrutan inte täcktes av tangentbordet så att man kan se vad man matar in. Detta lyckades vi bra med. Jag lyckades alltså med mitt mål dvs att bidra med kod till projektet.
+Till framtida projekt vill jag jobba vidare på detta. Jag har lärt mig att det ofta krävs en liten knuff av en med erfarenhet för att man ska komma över den spärren som finns för att ta sig an något nytt. 
+Genom att direkt leta upp någon, antingen inom gruppen eller utanför, som har erfarenhet kan jag se till att nästa projekt bli ännu bättre på att leverera värde till intressenter. 
+Jag tycker att jag på ett bra sätthar förstått under projektets gång att värde kan se ut och skapas på väldigt många olika sätt, så jag behöver bara hitta detta och sen ta mig över spärren
