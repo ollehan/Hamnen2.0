@@ -1,0 +1,12 @@
+https://marvelapp.com/6ch612b
+
+README:
+
+Här är länken till Mockup-bilderna som utvecklats. Det är klickbara "slides" för att visa på funktionen My Trip som vi tidigt föreställde oss som en grej vi ville göra med appen.
+Det handlar om att kaptenen ska kunna få en överblick över hela resan inkl. framtida hamnstopp. En tidslinje finns för att visa nuläget.
+Vill kaptenen lägga till en destination trycker hen på "+" och lägger in en ny från listan. Denna läggs då sist i tidslinjen.
+Vill man lägga till information (lite likt funktionen vi utveklat för additional information) kan man göra det när man lägger till eller redigerar en hamn.
+Blir man försenad och behöver ändra ETA för en hamn kan man göra det. Då kommeer appen varna för framtida förseningar och fråga om man vill uppdatera ETA för nästkommande hamnar också.
+Uppdateras en tid så kan båten tilldelas en ny berth för att passa in i schemat hos hamnen. Detta är tänkt ska skötas av hamnen i fråga och informationen ändras i mytrip efter att den har uppdaterats av inblandad part.
+Vid varningen för försening kan man antingen klicka bort den och behålla ETA (genom att t.ex. köra snabbare) eller klicka på att uppdatera tiden. Då kommer appen föreslå en ny tid lika många timmar senare som den man uppdaterade innan.
+
